@@ -1,0 +1,956 @@
+# --------------------------------------------------------------------------------------------------------------------------
+# **DISClAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
+# **Also: Some of these audios may not work due to being taken down, deleted or other. These audios also may get weirdly cut off. **
+# **That being said, feel free to use this compilation of audio IDs! Giving credit is optional.**
+# --------------------------------------------------------------------------------------------------------------------------
+### Adding audio entries:
+## Audio Entry Format:
+# {Audio Code} <> {Audio Name} - {Source}
+# {Source} may be omitted if the source is unknown or if the audio entry is placed under the source itself
+# 
+# Suffix () are used to indicate extra description for that audio (ex. (Instrumental), (Retrospecter Remix))
+# Suffix [] are used to indicate external modifications that are used in that audio (ex. [Looped], [sped up])
+#
+# If an audio is an remix, omit {Source} and include this: (<Remixer's name> Remix)
+# Example: 5366579601 <> Rude Buster (Camellia Remix)
+#
+# --< SECTIONS >-- are used to spilt up OSTs from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
+# Example:
+# ...
+# 144121667 <> Dungeon
+# --< TERRARIA MOD: CALAMITY >--
+# 5494048146 <> Siren's Call
+# ...
+# If a section has less than 5 tracks, don't use --<...>-- and use the mod name as the source instead:
+# Example:
+# 6399738874 <> Overhead - Vs. Whitty
+#
+# An exception to this is for sound entries, splitting chapters, or remixes of OSTs, in that case, always split it up
+# Songs that are very similiar in sound, should be grouped together.
+# -------------------------------------------------------------
+# https://www.roblox.com/library/<audio_id_here>/
+> Random/Uncategorized Music
+3501297844 <> Skull.ogg
+5410086218 <> Crab Rave - Noisestorm
+952774272 <> "what" - Earthbound
+6119798028 <> sus XDDDDDD
+6490413778 <> SUS XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+7279256311 <> Among Us Trap Remix vocoded to Gangsta Paradise
+6520777243 <> Can You Feel My Heart (Average [...] Fan VS Average [...] Enjoyer meme) - Bring Me The Horizon
+4822274688 <> arab nokia ringtone
+4860809989 <> Ali A straight into the intro - Ali A
+2059291590 <> I FOUND HEROBRINE IN FORTNITE?!?!? :OOOOO - Ali A
+5096176801 <> Snow Halation + Replay Iyaz (shawtys like a melody)
+5152714834 <> Indihome Paket Phoenix
+3198684276 <> Circus Theme - you :)
+396518422 <> Undertale the Musical [short] - LHUGUENY (yep, THAT one) 
+1788749499 <> MC Mental
+2916809696 <> Curb Your Enthusiasm
+5971920694 <> Polish Cow
+1096434714 <> that one dragonball music
+4605182432 <> Thanos beatbox
+6503915239 <> Chug Jug With You
+2665943889 <> You are an Idiot - ???
+6646847880 <> She sells sea shells [badly censored, cut short]
+5048447792 <> Sunshine Rainbow White Pony - Wowkie Zhang (大張偉)
+6205671419 <> Doin' Your Mom - Fatty Spins (apparently this doesn't work in-game)
+3807239428 <> Revenge - Captain Sparkels
+142633540 <> You've been Trolled!
+641270778 / 418669540 <> Title Screen - 7 GRAND DAD
+458212953 <> Gourmet Race [LOUD] - Kirby
+284512962 <> Gourmet Race - Kirby
+130768299 <> Elevator Music
+486598641 <> Lavender Town - Pokemon Blue And Red
+7268064402 <> In Yo Jaws (CENSORED)
+285768873 <> Bad Apple - Touhou
+2808581936 <> Dark Sheep - Chroma
+580426833 <> Safe and Sound - NCS
+2593058535 <> Freedom Dive - XI
+577543579 <> Blue Zenith - XI
+4816984896 <> E1M1 - Doom
+3878751931 <> Ruler Of Everything - tallyhall
+235068128 <> Wii Music Theme 
+1026744718 <> Disappearance Of Miku - Hatsune Miku
+3459294812 <> Mope Mope - LeaF
+2569365263 <> Aleph-0 - LeaF
+142376088 <> It's Raining Tacos
+3819072430 <> Sayonara (Lofi Remix) - DDLC
+5609012092 <> Goodbye to a World [low pitch] - Porter Robinson 
+159973318 <> Normal Music - ???
+1165001152 <> Bird Dance Madness Combat - Madness Combat Series
+6573177583 <> A1: It's just a burning memory - Everywhere at The End of Time by The Caretaker
+5717819473 <> bee. - GroovyDominoes52
+6767464010 <> I'm Sorry my Bro (Orchesta Version) - GroovyDominoes52
+4039220397 / 1642381938 <> We're Finally Landing - HOME 
+4728103901 <> Through the Fire and Flames (Full) - DragonForce
+2033705258 <> High Score! - FNaF: Ultimate Custom Night
+858082168 <> Megalo Strike Back - Toby Fox
+7134685869 <> Main Theme - Bad Piggies 2
+6272233492 <> Main Theme (Trap Remix) - Bad Piggies
+6472339966 <> Main Theme - Bad Piggies
+709122469 / 277801972 <> Wind of Fjords
+4620422621 <> The Great Strategy
+571254356 <> Horror
+6741606751 <> Whatsapp Car Drip
+7154191471 <> Clown Drip
+6803459614 <> Home Depot Beat Car Drip
+5189468929 <> Xue hua piao piao
+5053414331 <> Xue hua piao piao type beat
+3926167929 <> Mario Beatbox Solo - Verbalase
+1941069386 <> RUSH E
+6424389289 <> Oh Shit Its Ankha
+6492568114 <> Camel by Camel - Sandy Marton
+4547684493 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
+6247107469 <> Good Morning - Omori
+6932928276 <> Astronaut in the Ocean - Masked Wolf
+7435600457 <> Astronaut in the Ocean [Low Quality]
+7319576439 <> Bad Apple x Astronaut in the Ocean
+7567922251 <> Pink Soldiers [Extended] - Squid Game
+2717554604 <> Lifelight (Camellia's Hardstyle Bootleg Remix) - Super Smash Bros. Ultimate
+6645116263 <> Among Us Eurobeat Remix - maki ligon
+7281809427 <> 田一名-热爱105°C的你 Super Idol
+5639734570 <> Credits Theme - Riddle Transfer 2 (Jonochrome)
+260711572 <> Stereo Madness (remix)
+7104595039 <> Stereo Madness [LOUD]
+2499473632 <> Fingerdash (Full, Instrumental)
+306970862 <> Deadlocked
+7956883559 <> Helikopter - Fazlija
+7034014140 <> Drive Forever (Russian Remix) (Sigma Male Grindset Meme)
+2711879927 <> Elevator Music (actual name unknown)
+6582765044 <> The Happy Troll
+7819541272 <> ??? (Creepyish Ambiance)
+1124255533 <> Wind Ambiance
+420048995 <> Bumba Crossing
+2660213576 <> Cave Ambiance
+6170065603 <> Driftveil City
+195622274 <> Beethoven Virus - BanYa
+1846306568 <> Beethoven's 5th (Piano)
+3140574182 <> Brain Power - NOMA
+
+> Random/Uncategorized Sounds
+5210821790 <> hamood habibi
+641589464 / 4578740568 <> bruh
+3232410868 <> arabfunny go brrrr
+4819881245 <> siren - siren head
+4704519595 <> Lego City! (LOUD) - ???
+5136034364 <> Hallway Ambience - FNAF 2
+217584806 <> Elevator Bell Ring
+4809574295 / 7058158837 <> fard
+6683033226 <> Sweaty Speedrunner
+179497874 <> MLG Killcam
+6418106114 <> Trollge... it's coming. oh no
+5112474270 <> SUBARU SUBARU VROOM VROOM
+602163388 <> FNAF 1 jumpscare sound
+6900515969 <> 6 AM - FNAF 1
+5058160717 <> Vine Boom
+628897044 <> scream - Michael P
+901030512 <> scream2 - Michael P
+387176165 <> Femur Breaker Scream - SCP: Containment Breach
+6832470734 <> Taco Bell... bell sound
+6536627781 <> nobody found this funny
+4761049714 <> fart
+3742185694 <> Fart Reverb
+239320295 <> Crash "WOAH"
+5676936614 <> Y E E T
+3765689841 <> bonk
+291705945 <> YOLO - Big Man Tyrone
+4485382910 <> Nintendo Switch Click
+3581383408 <> Stone Hit
+3041190784 <> Light Hit
+7148654494 <> Hitsound - Project Diva
+7144958286 <> Hitsound - osu
+7148222017 <> Cymbal sound - osu
+7147797532 <> Snare Hit
+6607204501 <> Glass Tap
+6519521366 <> "Warp" sound
+2812991876 <> Car hit sound effect, I think
+3769434519 <> Bamboo hit
+6435400690 <> Quack
+574999020 <> Zombie "damaged" noise
+6116525919 <> Menu Select - Megaman
+5407165997 <> Menu Select - DuckTales
+2390688989 <> Button Menu
+6656872710 <> Pew noise
+1323738683 <> Sonic Unleashed Hint Appear
+289824730 <> Cookie Clicker Click
+2823539624 <> Card Hit
+4807489774 <> Futuristic UI sound
+7165407085 <> Typing sound
+7172808976 <> Clap - Stepmania and its descendants
+7173062975 <> Hit - Piggy
+2621754201 <> Hit - MM2
+1939645162 <> Hit - Earthbound
+6968100828 <> Hit - DBZ
+6947270296 <> YTTD Happy
+5473216896 <> Gun Sound
+912078533 <> Ray Gun Mk II shoot noise
+1136243671 <> M1911 shoot
+1129547534 <> MLG Hit
+933707554 <> Airhorn
+5433158470 <> Baka sound idk I don't watch anime
+3216912628 <> Ring Collect - Sonic
+203620899 <> Coin Collect - Mario
+158309736 <> Jump - SMB
+5320965693 <> Mario "wah"
+1556015863 <> Sumo noise
+2064193435 <> Airsoft
+515833371 <> Ding
+1019401548 <> Laser Gun shoot noise
+2039907664 <> Target Break - Super Smash Bros: Melee
+7149429798 <> Vine Boom
+6324081657 <> Hello Your Computer Has Virus
+7042359157 <> Industrial Society and Its Future [~7:00 MIN]
+7086388496 <> Flightreacts screaming
+1569053161 <> Flightreacts dolphin laugh
+2618158728 <> Russian Kid Rages in Minecraft
+146750669 <> Sine Wave (440hz)
+
+> Uploaded-by-Roblox Tracks
+# note: most of these music sounds pretty generic
+1837849285 <> Night Vision
+1846707136 <> Baby Dwarf
+--< SOUNDS >--
+12222253 <> victory.wav
+12222242 <> uuhhh.wav (oof sound)
+12221967 <> button.wav (old roblox button)
+12221944 <> bass.wav
+
+> Monstercat
+5410086218 <> Crab Rave - Noisestorm
+448067575 <> Nevada - Vicetone
+186430325 <> Till It's Over - Tristam
+
+> Friday Night Funkin' (+ mods)
+--< MAIN GAME >--
+6804523388 <> Bopeebo
+6110158310 <> Bopeebo (Instrumental)
+7346724556 <> Fresh
+5994522622 <> Dad Battle
+6065693843 <> Spookez
+6806920257 <> South
+6244115810 <> Monster
+6074618813 <> Pico
+6244068783 <> Philly Nice
+6244082461 <> Blammed
+6146514583 <> High
+6244102908 <> Satin Panties
+6244107428 <> MILF/Mom
+6146486438 <> Cocoa
+6146513537 <> Eggnog
+6275837083 <> Winter Horrorland
+6338531848 <> Senpai
+6337377270 <> Roses
+6343759433 <> Thorns
+6338468644 <> Thorns (Instrumental)
+6721763998 <> Test Week 7
+6678443282 <> Ugh
+6699901649 <> Guns
+6699841710 <> Stress
+6066717049 <> Game Over
+--< MOD OSTs >--
+6719954489 <> Bopeebo Rumble
+7006122964 <> Sunshine - Vs. Bob
+6821142816 <> Withered - Vs. Bob
+6816650189 <> Run - Vs. Bob
+7077249744 <> Ron - Bob's Onslaught (Vs. Bob Part 2)
+7077176048 <> Trouble - Bob's Onslaught (Vs. Bob Part 2)
+7077056093 <> Onslaught - Bob's Onslaught (Vs. Bob Part 2)
+7081033916 <> Little Man [CENSORED] - Bob's Onslaught (Vs. Bob Part 2)
+6914042846 <> Chicken Dance (Tsuraran Remix) - Vs. Tricky
+6614211529 <> Improbable Outset - Vs. Tricky
+6541168042 <> Madness - Vs. Tricky
+6900898241 <> Hellclown - Vs. Tricky
+6900786353 <> Hellclown (Instrumental) - Vs. Tricky
+6900795588 <> Hellclown (Vocals) - Vs. Tricky
+6905010300 <> Expurgation - Vs. Tricky
+6901111184 <> Expurgation (Instrumental) - Vs. Tricky
+6986516754 <> Game Over - Vs. Tricky
+6467584186 <> Lo-Fight - Vs. Whitty
+6399738874 <> Overhead - Vs. Whitty
+6401254298 / 6441859834 <> Ballistic - Vs. Whitty
+6818141335 <> Ballistic Remastered - Vs. Whitty
+6455151081 <> Ballistic (RetroSpecter Remix) - Vs. Whitty
+6539938891 <> Dunk - Vs. Hex
+6396671523 <> R.A.M - Vs. Hex
+6449724369 <> Hello World! - Vs. Hex
+6542981306 <> Glitcher - Vs. Hex
+6543178949 <> Encore - Vs. Hex
+6659059293 <> Manifest - Vs. Sky
+6658488775 <> Manifest (Instrumental) - Vs. Sky
+6561940777 <> Foolhardy - Vs. Zardy
+6557675321 <> Foolhardy (Instrumental) - Vs. Zardy
+6648108786 <> Light-it-Up - Vs. Matt
+6650625366 <> Light-it-Up (Instrumental) - Vs. Matt
+6650626156 <> Light-it-Up (Vocals) - Vs. Matt
+6658286372 <> Ruckus - Vs. Matt
+6663841358 <> Ruckus (Instrumental) - Vs. Matt
+6724042036 <> Target Practice - Vs. Matt
+6720315401 <> Sporting - Vs. Matt Week 2
+6773998825 <> Boxing Match - Vs. Matt Week 2
+6768786435 <> Headache - Vs. Garcello
+6768779769 <> Nerves - Vs. Garcello
+6768783121 <> Release - Vs. Garcello
+6786421944 <> Release (RetroSpecter Remix) - Vs. Garcello
+6782704078 <> Fading - Vs. Garcello
+6832047428 <> Genocide - Vs. Tabi
+6636155402 <> Parish (Instrumental) - Mid Fight Masses
+6718589518 <> Parish - Mid Fight Masses
+6571515086 <> Worship - Mid Fight Masses
+6650069449 <> Worship (Instrumental) - Mid Fight Masses
+6592510040 <> Zavodila - Mid Fight Masses
+6553642230 <> Gospel - Mid Fight Masses
+6748727919 <> Casanova - Mid Fight Masses
+7171118218 <> Carefree - Vs. QT
+7121993166 <> Censory Overload - Vs. QT
+7161353677 <> Termination - Vs. QT
+7183206249 <> Termination (w/ Sawblades) - Vs. QT
+7346724556 <> Termination (Instrumental) - Vs. QT
+7194481228 <> First Town - Vs. Camellia
+7199169373 <> Liquated - Vs. Camellia
+7168516332 <> Ghost - Vs. Camellia
+6994725519 <> Jump In - Vs. Bob & Bosip
+6994762688 <> Swing - Vs. Bob & Bosip
+6994889981 <> Split - Vs. Bob & Bosip
+7200842579 <> Split (Instrumental) - Vs. Bob & Bosip
+6994864306 <> Walk (Credits Screen music) - Vs. Bob & Bosip
+7234587703 <> Split EX - Vs. Bob & Bosip: The Expansion Update
+7806548119 <> Split EX (Instrumental) - Vs. Bob & Bosip: The Expansion Update
+7350109424 <> Ejected - Vs. Impostor
+7496444102 <> Cheating - Vs. Dave And Bambi (With 3, 2, 1 GO) (UNCENSORED)
+7317406096 <> Cheating - Vs. Dave And Bambi (Without 3, 2, 1, GO) (UNCENSORED)
+7984468433 <> Applecore - Vs. Dave And Bambi
+8107363458 <> Triple Trouble - Sonic Exe 2.0 (NightCore Or Speed XD)
+8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe Part <Except The Last Part>)
+7860856702 <> Monochrome - FNF Hypno Lullaby
+--< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
+6474930628 <> Philly Nice - Siivagunner
+6484886741 <> South - Siivagunner
+6555142336 <> Fresh (B-Side) - Siivagunner
+6510909272 / 6520753296 <> Senpai - Siivagunner
+6223215914 <> Dad Battle (In-Game Version) - Siivagunner
+6480955882 <> Tutorial - Siivagunner
+6282464904 <> Bopeebo (Beta Mix) - Siivagunner
+6197524151 <> Bopeebo - Siivagunner
+6445110301 <> Fresh - Siivagunner
+7088499623 <> Overhead - Vs. Whitty: Siivagunner
+7106953084 <> Chicken Dance (Tsuraran Remix) - Vs. Tricky: Siivagunner
+6591054032 <> I ain't got no IPhone - Lemon Demon cover
+6481209509 <> Roses...?
+6294877910 <> Dad Battle...?
+6668406167 <> Bopeebo Rumble...?
+6603978674 <> da batle
+--< SOUNDS >--
+6878624853 <> GF Sound
+6862721997 <> BF's "beep"
+6879691724 <> Pico Sound
+6713298776 <> Miss Sound
+7175909725 <> Ruv Text sound - Mid Fight Masses
+6896888852 <> Kapi Meow - Vs. Kapi
+8200701762 <> Termination Saw Warning - Vs. QT
+
+> Terraria
+221041819 <> Title Screen
+3071770442 <> Snow
+3203684057 <> Windy
+144121667 <> Dungeon
+151915559 <> Boss 2
+5048547209 <> Empress of Light
+--< TERRARIA MOD: CALAMITY >--
+2666435584 <> Threats of the Ocean Floor
+5494048146 <> Siren's Call
+1273909636 <> Forbidden Lullaby
+2071274388 <> Cosmic Disgust
+4582137082 / 3612632327 <> Pest of the Cosmos
+4896291206 <> Toxic Wisdom
+5567829834 <> Servants of the Scourge
+919050740 <> Scourge of the Universe
+2206245579 <> Universal Collapse
+1276814239 <> Murderswarm
+3221578654 <> Interstellar Stomper
+2557063996 <> Stained Brutal Calamity (Grief)
+2549532399 <> Stained Brutal Calamity (Lament)
+2457385004 <> Stained Brutal Calamity (Epiphany)
+2457387217 <> Stained Brutal Calamity (Acceptance)
+
+> Roblox: Bee Swarm Simulator
+4588690218 <> Overflowin
+5331874645 <> Drone
+3035183162 <> Wax (very quiet)
+4976616702 <> Antmarch
+5558240798 <> Stick Bug
+
+> Undertale
+--< MAIN GAME >--
+326012211 <> Once Upon a Time
+508851549 <> Start Menu
+321702143 <> Your Best Friend
+382519072 <> Fallen Down
+581762999 <> Ruins
+320085894 <> Uwa!! So Temperate♫
+346466530 <> Anticipation
+386227924 <> Unnecessary Tension
+306176017 <> Enemy Approaching
+305163432 <> Ghost Fight
+409811424 <> Determination
+328964090 <> Home
+511169895 <> Home (Music Box)
+397385749 <> Heartache
+3210200812 <> sans.
+305155624 <> Nyeh Heh Heh!
+304859001 <> Snowy
+606962368 <> Uwa!! So Holiday♫
+5208034233 <> Dogbass
+874653548 <> Mysterious Place
+325591304 <> Dogsong
+320178240 <> Shop
+329717797 <> Bonetrousle
+320247672 <> Dating Start!
+320249296 <> Dating Tense!
+506005337 <> Dating Fight!
+4982346345 <> Premonition
+6166229255 <> Danger Mystery
+333875306 <> Undyne
+3557715510 <> Waterfall
+6900522623 <> Run!
+320358862 <> Quiet Water
+4561475179 <> Memory
+320325822 <> Bird That Carries You Over A Disproportionately Small Gap
+511168449 <> Dummy!
+328224080 <> Pathetic House
+336763294 <> Spooktune
+# (Spookwave missing. Proceed.)
+# (Ghouliday missing. Proceed.)
+3109841706 <> Chill
+361806661 <> Thundersnail
+333166119 <> Temmie Village
+333165956 <> Tem Shop
+341130467 <> NGAHHH!!
+1040136764 <> Spear of Justice
+363699809 <> Ooo
+339180214 <> Alphys
+395969989 <> It's Showtime!
+386794732 <> Metal Crusher
+511171972 <> Another Medium
+606963755 <> Uwa!! So HEATS!!?
+325450301 <> Stronger Monsters
+608222024 <> Can You Really Call This A Hotel I Didn't Recieve A Mint On My Pillow Or Anything
+336787493 <> Confession
+1135286699 <> Live Report
+304759530 <> Death Report
+301655154 <> Spider Dance
+316902508 <> Wrong Enemy
+494687698 <> Oh! One True Love
+329680828 <> Oh! Dungeon
+511173461 <> It's Raining Somewhere Else
+# (CORE Approach missing. Proceed.)
+511172920 <> CORE
+304753413 <> Last Episode!
+328415037 <> Oh My..
+1014485859 <> Death By Glamour
+458267779 <> For the Fans
+2712429387 <> Long Elevator
+616985502 <> Undertale
+2901090018 <> Song That Might Play When You Fight Sans
+511171560 <> The Choice
+320258766 <> Small Shock
+373050304 <> Barrier
+5956647548 <> Bergentrückung
+2948384934 <> ASGORE
+331517951 <> You Idiot
+6066854931 <> Your Best Nightmare (intro only)
+5608161881 <> Your Best Nightmare
+305047121 <> Finale
+511173827 <> An Ending
+696379040 <> She's Playing Piano
+511170994 <> Here We Are
+361511879 <> Amalgam
+511172167 <> Fallen Down (Reprise)
+511169379 <> Don't Give Up
+836508726 / 6355559964 <> Hopes and Dreams
+323746498 <> Burn In Despair
+332843573 <> SAVE the World
+304222305 <> His Theme (In-Game)
+511170766 <> His Theme (OST)
+327337483 <> Final Power
+4079948836 <> Reunited
+2356898864 <> Menu (Full)
+320179078 <> Respite
+511174146 <> Bring It In, Guys! 
+511171810 <> Last Goodbye
+316059054 <> But the Earth Refused to Die
+4820592509 <> Battle Against a True Hero
+342261363 <> Power of -NEO-
+3745550364 <> Megalovania
+320356734 <> Good Night
+366168126 <> Gaster Theme / Dark, yet Darker
+2372343957 <> Vs Mad Mew Mew
+360802294 <> mus_smile.ogg
+--< SOUNDS >--
+6859407462 <> mus_explosion.ogg
+1655262564 <> Heal SFX
+--< UNOFFICIAL REMIXES/EDITS >--
+602261321 <> Bonetrousle (Day 1 Patch) - Siivagunner
+6906298814 <> Once Upon a Time (True Pacifist Version) - Siivagunner
+5119156054 <> Megalovania (Camellia Remix)
+2679702520 <> Megalovania but every other beat is missing
+4108548849 <> Bonetrousle (Nintendo Switch Version) - Siivagunner
+490259687 <> Your Best Nightmare (Alternative Mix) - Siivagunner
+1115614246 <> Finale - Siivagunner
+4897898345 <> Megalovania (Alpha Mix) - Siivagunner
+400291464 <> Megalovania (Beta Mix) - Siivagunner
+481913772 <> His Theme - Siivagunner
+3074224117 <> Megalovania + The Entry of The Gladiators (aka clown music)
+4983652462 <> SAVE the World
+--< FAN-GAME/ANIMATION TRACKS >--
+363178116 / 436988672 <> Alphys Takes Action [LENGTH: 2:00]
+1046135187 <> Interstellar Retribution - Undertale: Disbelief
+1046137668 <> Phase 2 - Undertale: Disbelief
+1046150894 <> Backbone - Undertale: Disbelief
+1046161190 <> Final Chance - Undertale: Disbelief
+5432860065 <> Megalovania but in the style of Disbelief
+4739499225 <> Sans Phase 3 - Undertale: Last Breath
+
+> Deltarune
+--< CHAPTER 1 OSTs >-- 
+2545302036 <> Field of Hopes and Dreams
+2541045910 <> Checker Dance
+2581161873 <> Card Castle
+4666570939 <> Rude Buster
+2583045807 <> Chaos King
+2533880583 <> THE WORLD REVOLVING
+2581165208 <> Friendship
+2541004671 <> Don't Forget (ft. Laura Shigihara)
+--< CH1 UNOFFICIAL REMIXES/EDITS >--
+5366579601 <> Rude Buster (Camellia Remix)
+5295970239 <> Rude Buster + Thanos Beatbox
+7029906996 <> Rude Buster + Replay Iyaz
+7345062826 <> Rude Buster + Obama Beatbox
+7568252921 <> Rouxls Kaard - TimmyTurnersGrandDad
+2578754972 <> Don't Forget - Siivagunner
+--< CHAPTER 2 OSTs >--
+7502282069 <> My Castle Town
+7502282069 <> A CYBER WORLD?
+7552068692 <> Cyber Battle (Solo)
+7507378837 <> When I Get Happy I Dance Like This
+4652219915 <> WELCOME TO THE CITY
+7533945425 <> Attack of the Killer Queen
+7508775331 <> Knock You Down !!
+7506992048 <> BIG SHOT
+7510255482 <> Until Next Time
+7526993894 <> snd_snowgrave.ogg (SnowGrave use SFX)
+7527008733 <> snd_icespell.ogg (IceShock use SFX)
+7520569768 <> mus_flashback_excerpt.ogg (Noelle hospital cutscene on Snowgrave route post-Fountain)
+
+> Plants vs Zombies
+216932927 <> Main Theme
+158260192 <> The Zombies ate Your Brains!
+6228604802 <> Day
+154515510 <> Loonboon
+786066849 <> Ultimate Theme
+473440909 <> Watery Graves
+154623283 <> Rigor Mormist
+859382956 <> Graze The Roof 
+151245487 <> Brainiac Maniac [might be a little loud]
+2879550002 <> Loonboon - Siivagunner
+
+> The Henry Stickmin Collection
+5614573026 <> Henry Stickmin (Main Theme)
+5597441696 <> Falling
+5637953618 <> Pre-Game
+5637981024 <> Pre-Game [Looped]
+5907035092 <> Valiant Hero
+5661291318 <> Vindicated
+5661301057 <> Ellie's Theme
+5672111301 <> Metal Hat
+5595909559 <> Tickets Please
+5661311132 <> Red Tank Theme
+5661282400 <> Da Vinci Overdrive
+6858734405 <> The Big Play
+5621750012 <> The Wall
+5536676048 <> Distraction Dance
+--< SOUNDS >--
+5684756012 <> Aircraft Alarm
+
+> Little Runmo
+4471113614 <> Level One
+4454862615 <> Meatball Man
+4397723567 <> End of the Universe
+
+> Spongebob
+2788641490 <> Jellyfish Jam
+326180973 <> Electric Zoo
+1100552247 <> Grass Skirt Chase
+390099251 <> Twelveth Street Rag
+
+> Team Fortress 2
+# only sounds for now
+--< SOUNDS >--
+3466982899 <> Space Hit
+3455144981 <> Hit
+3431749479 <> Pan noise
+4890185640 <> Main Theme End
+10209908 <> Wrench hit
+10209905 <> Wrench hit fail
+10209902 <> Syringe Gun Reload
+10209897 <> Syringe Gun fire
+10209894 <> Sticky Launcher Reload
+10209888 <> Sticky Launcher fire
+10209886 <> Sticky Bomb detonate
+10209881 <> Sniper reload
+10209875 <> Sniper fire
+10209869 <> SMG reload
+10209859 <> SMG fire
+10209850 <> Shovel swing
+10209845 <> Shotgun reload
+10209842 <> Shotgun fire
+10209834 <> Scattergun Reload
+10209828 <> Scattergun fire
+10209821 <> Rocket Launcher fire
+10209813 <> Rocket Launcher reload
+10209810 <> Revolver reload
+10209803 <> Revolver fire
+10209801 <> Pistol reload
+10209798 <> Pistol fire
+10209788 <> Minigun spin
+10209786 <> Minigun spin end
+10209780 <> spin middle
+10209776 <> Minigun fire
+10209771 <> Minigun empty
+10209668 <> Medigun no target
+10209658 <> Medigun heal
+10209653 <> Medigun charged
+10209645 <> Machete swing
+10209640 <> Knife swing
+10209636 <> Grenade Launcher reload
+10209633 <> Grenade Launcher fire
+10209624 <> Flamethrower start
+10209616 <> Flamethrower loop
+10209605 <> Flamethrower end
+10209600 <> Flamethrower Airblast
+10209596 <> Bottle hit
+10209590 <> blade hit
+10209588 <> Bat hit
+10209583 <> Axe hit
+10209481 <> Sapper removed
+10209475 <> Sapper planted
+10209467 <> grenade impact
+10209450 <> Locker sound
+10209303 <> Teleporter send
+10209296 <> Teleporter receive
+10209280 <> Teleporter ready
+10209268 <> Teleporter destroyed
+10209260 <> Sentry spot
+10209257 <> Sentry fire
+10209248 <> Sentry rocket fire
+10209240 <> Sentry built
+10209236 <> Sentry destroyed
+10209225 <> Sentry empty
+10209221 <> Dispenser heal
+10209215 <> Dispenser generate metal
+10209212 <> Dispenser destroyed
+10209146 <> Administrator: You failed
+10209137 <> Administrator: Victory
+10209136 <> Administrator: Prepare to capture intel
+10209129 <> Administrator: Prepare to attack control points
+10209104 <> Administrator: Begin
+
+> FEZ
+4893867198 <> Adventure
+6607721145 <> Beyond
+152889157 <> Love
+186712351 <> Home
+5120364845 <> Glitch
+154058125 <> Sync
+131640674 <> Spirit [cut short]
+
+> Mario Party DS: Anti Piracy series
+6109997472 <> Piracy is no Party!
+6225375816 <> Anti Piracy Self Reporter
+
+> Super Mario World
+2137902865 <> Overworld
+155738252 <> Athletic
+--< UNOFFICIAL REMIXES/EDITS >--
+386990215 <> Athletic - Siivagunner
+2289623191 <> Key + THX Startup
+
+> Super Mario 64
+681504763 <> Powerful Mario
+606127712 <> Snow Mountain
+--< UNOFFICIAL REMIXES/EDITS >--
+6607811759 <> Ultimate Koopa - Siivagunner (Super █████ 64 event)
+6608670589 <> Ultimate Koopa Clear - Siivagunner (Super █████ 64 event)
+
+> Paper Mario
+5041117963 <> Mario's House Theme
+3723070938 <> Game Over
+286203369 <> King of The Koopas
+-- SOUNDS --
+5236355791 <> Peril SFX
+5236355411 <> Danger SFX
+2986157260 <> Lucky SFX
+
+> Paper Mario: The Thousand Year Door
+# big thanks to @ko11 for uploading like 98% of these
+263162273 <> Adventure Begins
+210645458 <> Battle Theme
+287101535 <> Escape the Falling Ceiling [Looped]
+155347992 <> Macho Grubba
+233174949 <> Cortez Battle (with intro sfx)
+177776930 <> Shadow Queen: Peach Form (Phase 1)
+236989068 <> Shadow Queen: Invicible Form (Pre-phase 2)
+153742435 <> Shadow Queen (Phase 2)
+253451734 <> Level Up (Loopable)
+245599022 <> Poshley Heights
+5563869122 <> Title Screen
+196645707 <> Creepy Steeple
+161115312 <> Doopliss Theme 
+313331905 <> Doopliss Battle
+314359640 <> Farewell Rougeport
+160569212 <> Magnus von Grapple Theme
+306138017 <> Magnus von Grapple Battle [Loopable]
+154761950 <> Pit of 100 Trials
+195409473 <> We Believe in You (Full) [sped up, set pitch to 0.67 for original]
+194887151 <> We Believe in You [Loopable]
+284186552 <> Madame Flurrie
+276108118 <> New Curse
+299587055 <> Boggly Woods
+273088633 <> New Skill
+227137497 <> Petal Meadows
+247519883 <> Excess at Day
+251421837 <> Excess at Dusk
+249566336 <> Excess at Night
+152673093 <> Sadness and Happiness
+252548012 <> Hooktail Castle
+274504883 <> The Moon
+161477718 <> Bowser's Theme
+150644490 <> Twilight Trail
+296735760 <> Shhwonk Fortress
+203069624 <> Palace of Shadow
+198993583 <> Pirate's Grotto
+263162782 <> Returning to Mushroom Kingdom
+256773958 <> Pianta Parlor
+218277546 <> Grodus's Theme
+289809182 <> Super Fun Quirk Quiz Question
+152102826 <> Luigi's Theme
+300386498 <> X-Nauts Attack
+211304549 <> Super Koopa Bros World 3
+268158754 <> Debug Menu [Looped]
+
+> Super Paper Mario
+1161894031 <> The Ultimate Show (unfinished?)
+171634198 <> Overthere Stair
+336658942 <> Gloam Valley
+155163301 <> The Underwhere
+1469424545 <> Mount Lineland
+2096635487 <> Memory
+
+> Paper Mario: The Origami King
+5251942821 <> Red Streamer Battle
+5355699113 <> The Final Fold 1
+5415211526 <> Origami Castle
+5425461156 <> Mid Boss
+
+> Mario and Luigi: Bowser's Inside Story
+195900687 <> In The Final
+
+> Among Us (I'm not going to put some dumb stuff here)
+5696537532 <> Main Menu
+# that's it lol
+--< SOUNDS >--
+5676457861 <> Emergency Meeting
+5700753924 <> Dead Body Reported
+5700183626 <> Kill SFX
+7457163870 <> Killed SFX
+
+> Dicey Dungeons
+7000051971 <> Against All Odds
+6811845117 <> Lifeline
+4264795532 <> Step Right Up
+
+> Cuphead
+3487389352 <> Botanic Panic
+
+> Inscryption
+7885054690 <> Leshy's Theme
+8164413916 <> A Final Duel
+8164440205 <> Deathcard Cabin (Reprise)
+7885655814 <> The Moon
+7992460365 <> The Temple of Technology
+7862867653 <> The Temple of the Dead
+7862926300 <> The Scrybe of the Dead
+7871158966 <> The Scrybe of Magicks
+7862953111 <> Uberbot Activated
+8097911975 <> Deathcard Cabin [Full, Pitch 50%]
+
+> Sonic.Exe
+8143944961 <> Hill
+
+> Kevin Macleod
+413176884 <> Carefree
+279498364 <> There It Is
+335120003 <> Aces High
+257383979 <> Movement Proposition
+413177092 <> Life of Riley
+2919546130 <> Breaktime
+357684108 <> Overcast
+7828491029 <> Itty Bitty 8 Bit
+7711231212 <> Fluffing a Duck
+963703151 <> Cipher
+4567074797 <> Investigations
+4895754016 <> Beach Party
+
+> Camellia
+1747451164 <> Ghost
+7414324108 <> Ghost (2020 Halloween+++++++++ VIP)
+3890747311 <> Quaoar
+1861780345 <> crystallized
+6189436409 <> Hello (BPM) 2021
+1228696343 <> ANOMALY
+
+> Kobaryo
+2878403701 <> Villain Virus (ft. Camellia)
+5639284536 <> Necromancer
+
+> ParagonX9
+148285099 <> Chaoz Fantasy
+5615020251 <> No.5
+925412603 <> Defection
+215758524 <> Infiltration
+216295506 <> Chaoz Impact
+282908631 <> Chaoz Defection
+557894001 <> Chaoz Airflow
+656478412 <> Chaoz Devotion
+2457284832 <> Double Damage
+2457286956 <> Equalized
+6487381789 <> Red 13 [ends abruptly]
+280792714 <> Red 13 [Incomplete]
+6316572849 <> Elation
+
+> Dimrain47
+5767770660 <> Jetstream
+431718336 <> The Falling Mysts
+1055853169 <> Operation Evolution
+576075040 <> Surface
+212693212 <> Infernoplex
+561786199 <> Duality
+4586618716 <> The Disturbance
+3310217049 <> Forsaken Neon
+
+> Waterflame
+3248394541 <> Nightlife
+1112358968 <> Cats!
+2954323029 <> Escalate
+4703563060 <> Momentary
+1494625744 <> Swirl
+4592034104 <> Dim
+1044406069 <> Mainspring
+953450767 <> Relentless
+1197735636 <> Meltdown
+1241888953 <> Chaotic
+5961501635 <> Thunderzone
+900470512 <> Jumper
+
+> NoCopyrightSounds/NCS
+
+# https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
+> Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
+1839492262 <> Slow Piano 1
+1839492447 <> Slow Piano 2
+1839492271 <> Slow Piano 3
+1839492396 <> Slow Piano 4
+1839492349 <> Slow Piano 5
+1841276253 <> Slow Piano 6
+1839492457 <> Slow Piano 7
+1841276606 <> Classy European 1
+1841276696 <> Classy European 2 
+1838893398 <> Classy European 3
+1846506818 <> Classy European 4
+1841277181 <> Tropical 1
+1841277115 <> Tropical 2
+1836861620 <> Tropical 3 
+1835612978 <> Tropical 4
+1843397679 <> Tropical 5
+1843397622 <> Tropical 6
+1839930524 <> Tropical 7
+1836105681 <> Tropical 8 
+1837324500 <> Tropical 9
+1842245655 <> Relaxed 1
+1842245667 <> Relaxed 2
+1842245727 <> Relaxed 3
+1842245748 <> Relaxed 4
+1842245775 <> Relaxed 5
+1842245838 <> Relaxed 6
+1842245887 <> Relaxed 7
+1838571107 <> Synthwave 1
+1838509161 <> Synthwave 2
+1838499484 <> Synthwave 3
+1838499493 <> Synthwave 4
+6552820383 <> Synthwave 5
+1522831964 <> Synthwave 6
+1838557782 <> Chill Lounge 1
+1838557949 <> Chill Lounge 2
+1838591491 <> Chill Lounge 3
+1838591496 <> Chill Lounge 4
+1838537421 <> Chill Lounge 5
+1838537479 <> Chill Lounge 6
+1838548013 <> Chill Lounge 7
+1838580934 <> Chill Lounge 8
+1838498662 <> Chill Lounge 9
+1838548876 <> Chill Lounge 10
+1842826582 <> Techno 1
+1842826641 <> Techno 2
+1842826707 <> Techno 3
+1842826765 <> Techno 4
+1842826825 <> Techno 5
+1842830187 <> Techno 6
+1842830412 <> Techno 7
+1835967261 <> Jazz Lounge 1
+1835967291 <> Jazz Lounge 2
+1835967320 <> Jazz Lounge 3
+1835967352 <> Jazz Lounge 4
+1835967388 <> Jazz Lounge 5
+1835967426 <> Jazz Lounge 6
+1835967423 <> Jazz Lounge 7
+1835967522 <> Jazz Lounge 8
+1835967503 <> Jazz Lounge 9
+1835922290 <> Groovy Lounge 1
+1835922330 <> Groovy Lounge 2
+1835922326 <> Groovy Lounge 3
+1835922374 <> Groovy Lounge 4
+1835922376 <> Groovy Lounge 5
+1835922444 <> Groovy Lounge 6
+1835922646 <> Groovy Lounge 7
+1837467234 <> Halloween 1
+1837467285 <> Halloween 2 
+1837467266 <> Halloween 3
+1837467325 <> Halloween 4
+1837467364 <> Halloween 5
+1094383954 <> Halloween 6
+1845433340 <> Outdoor Acoustic 1
+1845433503 <> Outdoor Acoustic 2
+1845457702 <> Outdoor Acoustic 3
+1845457860 <> Outdoor Acoustic 4
+1845434234 <> Outdoor Acoustic 5
+1845434372 <> Outdoor Acoustic 6
+1845434608 <> Outdoor Acoustic 7
+1845434771 <> Outdoor Acoustic 8
+1845434846 <> Outdoor Acoustic 9
+1836150664 <> Japanese 1
+1836149778 <> Japanese 2
+1836150019 <> Japanese 3
+1847745466 <> Japanese 4
+1847745218 <> Japanese 5
+1837117631 <> Japanese 6
+1837324500 <> Japanese 7
+1837455056 <> Electro 1
+5410085694 <> Electro 2
+5410080926 <> Electro 3
+5410086218 <> Electro 4
+5410085763 <> Electro 5
+5410081112 <> Electro 6
+5410083814 <> Electro 7
+6836754721 <> Upbeat Piano 1
+6836753798 <> Upbeat Piano 2
+6836753065 <> Upbeat Piano 3
+6836751768 <> Upbeat Piano 4
