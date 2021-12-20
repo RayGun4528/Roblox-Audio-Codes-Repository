@@ -1,10 +1,10 @@
 # --------------------------------------------------------------------------------------------------------------------------
 # **DISClAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
 # **Also: Some of these audios may not work due to being taken down, deleted or other. These audios also may get weirdly cut off. **
-# **That being said, feel free to use this compilation of audio IDs! Giving credit is optional.**
+# **That being said, feel free to use this huge list of audio IDs! Giving credit is optional.**
 # --------------------------------------------------------------------------------------------------------------------------
-### Adding audio entries:
-## Audio Entry Format:
+# Adding audio entries:
+# Audio Entry Format:
 # {Audio Code} <> {Audio Name} - {Source}
 # {Source} may be omitted if the source is unknown or if the audio entry is placed under the source itself
 # 
@@ -14,7 +14,7 @@
 # If an audio is an remix, omit {Source} and include this: (<Remixer's name> Remix)
 # Example: 5366579601 <> Rude Buster (Camellia Remix)
 #
-# --< SECTIONS >-- are used to spilt up OSTs from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
+# --< SECTIONS >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
 # Example:
 # ...
 # 144121667 <> Dungeon
@@ -204,6 +204,18 @@
 1569053161 <> Flightreacts dolphin laugh
 2618158728 <> Russian Kid Rages in Minecraft
 146750669 <> Sine Wave (440hz)
+97157576 <> Glass Break 1
+97156507 <> Glass Break 2
+97156551 <> Glass Break 3
+97156491 <> Glass Break 4
+97156539 <> Glass Break 5
+96478567 <> Lightning 1
+96478505 <> Lightning 2
+96478426 <> Lightning 3
+96478346 <> Lightning 4
+99274458 <> Strong Wind 1
+99273674 <> Strong Wind 2
+99268197 <> Strong Wind 3
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -316,10 +328,10 @@
 7234587703 <> Split EX - Vs. Bob & Bosip: The Expansion Update
 7806548119 <> Split EX (Instrumental) - Vs. Bob & Bosip: The Expansion Update
 7350109424 <> Ejected - Vs. Impostor
-7496444102 <> Cheating - Vs. Dave And Bambi (With 3, 2, 1 GO) (UNCENSORED)
-7317406096 <> Cheating - Vs. Dave And Bambi (Without 3, 2, 1, GO) (UNCENSORED)
+7496444102 <> Cheating (With Start) - Vs. Dave And Bambi (UNCENSORED)
+7317406096 <> Cheating - Vs. Dave And Bambi (UNCENSORED)
 7984468433 <> Applecore - Vs. Dave And Bambi
-8107363458 <> Triple Trouble - Sonic Exe 2.0 (NightCore Or Speed XD)
+8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
 8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe Part <Except The Last Part>)
 7860856702 <> Monochrome - FNF Hypno Lullaby
 --< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
@@ -770,6 +782,10 @@
 
 > Cuphead
 3487389352 <> Botanic Panic
+1109730781 <> The King's Court
+1081143233 <> Railroad Wrath
+--< SOUNDS >--
+1151710193 <> Knockout!
 
 > Inscryption
 7885054690 <> Leshy's Theme
@@ -852,6 +868,11 @@
 900470512 <> Jumper
 
 > NoCopyrightSounds/NCS
+707644140 <> Wicked - John Kenza
+6346896493 <> Fade - Alan Walker
+6346896493 <> On & On - Cartoon
+288756677 <> Life - Tobu
+2178379418 <> The Apocalypse - NIVIRO
 
 # https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
 > Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
