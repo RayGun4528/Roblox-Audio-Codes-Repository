@@ -100,7 +100,6 @@
 1941069386 <> RUSH E
 6492568114 / 6424389289 <> Camel by Camel - Sandy Marton
 582476855 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
-6247107469 <> Good Morning - Omori
 6932928276 <> Astronaut in the Ocean - Masked Wolf
 7435600457 <> Astronaut in the Ocean [Low Quality]
 7319576439 <> Bad Apple x Astronaut in the Ocean
@@ -704,11 +703,15 @@
 6607811759 <> Ultimate Koopa - Siivagunner (Super █████ 64 event)
 6608670589 <> Ultimate Koopa Clear - Siivagunner (Super █████ 64 event)
 
+> OMORI
+6714449388 <> Bad Morning
+6247107469 <> Good Morning
+
 > Paper Mario
 5041117963 <> Mario's House Theme
 3723070938 <> Game Over
 286203369 <> King of The Koopas
--- SOUNDS --
+--< SOUNDS >--
 5236355791 <> Peril SFX
 5236355411 <> Danger SFX
 2986157260 <> Lucky SFX
