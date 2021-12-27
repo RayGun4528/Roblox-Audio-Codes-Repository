@@ -100,7 +100,7 @@
 1941069386 <> RUSH E
 6424389289 <> Oh Shit Its Ankha
 6492568114 <> Camel by Camel - Sandy Marton
-4547684493 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
+582476855 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
 6247107469 <> Good Morning - Omori
 6932928276 <> Astronaut in the Ocean - Masked Wolf
 7435600457 <> Astronaut in the Ocean [Low Quality]
@@ -117,7 +117,7 @@
 7956883559 <> Helikopter - Fazlija
 7034014140 <> Drive Forever (Russian Remix) (Sigma Male Grindset Meme)
 2711879927 <> Elevator Music (actual name unknown)
-6582765044 <> The Happy Troll
+6582765044 <> The Happy Troll - D1ofAquavibe
 7819541272 <> ??? (Creepyish Ambiance)
 1124255533 <> Wind Ambiance
 420048995 <> Bumba Crossing
@@ -126,6 +126,8 @@
 195622274 <> Beethoven Virus - BanYa
 1846306568 <> Beethoven's 5th (Piano)
 3140574182 <> Brain Power - NOMA
+8234168747 <> Among Us In Real Life (yes, the SUS SUS one) - Rebecca Zamolo 
+4539170617 <> error [レッドゾーン]
 
 > Random/Uncategorized Sounds
 5210821790 <> hamood habibi
@@ -330,10 +332,18 @@
 7350109424 <> Ejected - Vs. Impostor
 7496444102 <> Cheating (With Start) - Vs. Dave And Bambi (UNCENSORED)
 7317406096 <> Cheating - Vs. Dave And Bambi (UNCENSORED)
+7713421656 <> Unfairness - Vs. Dave And Bambi (UNCENSORED)
 7984468433 <> Applecore - Vs. Dave And Bambi
 8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
 8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe Part <Except The Last Part>)
 7860856702 <> Monochrome - FNF Hypno Lullaby
+7249291557 <> Corn Theft - Vs. Dave And Bambi
+6698288749 <> Wocky - Vs. Kapi
+6714272316 <> Beathoven - Vs. Kapi
+6728929802 <> Flatzone - Vs. Kapi
+7282476691 <> Hairball - Vs. Kapi: Arcade Showdown
+6898822576 <> Hairball (Instrumental) - Vs. Kapi: Arcade Showdown
+6879239119 <> Nyaw - Vs. Kapi: Arcade Showdown
 --< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
 6474930628 <> Philly Nice - Siivagunner
 6484886741 <> South - Siivagunner
@@ -500,6 +510,8 @@
 --< SOUNDS >--
 6859407462 <> mus_explosion.ogg
 1655262564 <> Heal SFX
+5350464575 <> Select Sound???
+623904185 <> Slash Sound???
 --< UNOFFICIAL REMIXES/EDITS >--
 602261321 <> Bonetrousle (Day 1 Patch) - Siivagunner
 6906298814 <> Once Upon a Time (True Pacifist Version) - Siivagunner
@@ -868,7 +880,7 @@
 900470512 <> Jumper
 
 > NoCopyrightSounds/NCS
-707644140 <> Wicked - John Kenza
+707644140 <> Wicked
 6346896493 <> Fade - Alan Walker
 6346896493 <> On & On - Cartoon
 288756677 <> Life - Tobu
