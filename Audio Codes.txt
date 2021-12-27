@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------------------------------------------------------
-# **DISClAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
+# **DISCLAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
 # **Also: Some of these audios may not work due to being taken down, deleted or other. These audios also may get weirdly cut off. **
 # **That being said, feel free to use this huge list of audio IDs! Giving credit is optional.**
 # --------------------------------------------------------------------------------------------------------------------------
@@ -98,10 +98,8 @@
 5053414331 <> Xue hua piao piao type beat
 3926167929 <> Mario Beatbox Solo - Verbalase
 1941069386 <> RUSH E
-6424389289 <> Oh Shit Its Ankha
-6492568114 <> Camel by Camel - Sandy Marton
-4547684493 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
-6247107469 <> Good Morning - Omori
+6492568114 / 6424389289 <> Camel by Camel - Sandy Marton
+582476855 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
 6932928276 <> Astronaut in the Ocean - Masked Wolf
 7435600457 <> Astronaut in the Ocean [Low Quality]
 7319576439 <> Bad Apple x Astronaut in the Ocean
@@ -117,7 +115,7 @@
 7956883559 <> Helikopter - Fazlija
 7034014140 <> Drive Forever (Russian Remix) (Sigma Male Grindset Meme)
 2711879927 <> Elevator Music (actual name unknown)
-6582765044 <> The Happy Troll
+6582765044 <> The Happy Troll - D1ofAquavibe
 7819541272 <> ??? (Creepyish Ambiance)
 1124255533 <> Wind Ambiance
 420048995 <> Bumba Crossing
@@ -126,11 +124,13 @@
 195622274 <> Beethoven Virus - BanYa
 1846306568 <> Beethoven's 5th (Piano)
 3140574182 <> Brain Power - NOMA
+8234168747 <> Among Us In Real Life (yes, the SUS SUS one) - Rebecca Zamolo 
+4539170617 <> error [レッドゾーン]
 
 > Random/Uncategorized Sounds
 5210821790 <> hamood habibi
 641589464 / 4578740568 <> bruh
-3232410868 <> arabfunny go brrrr
+3232410868 <> arabfunny
 4819881245 <> siren - siren head
 4704519595 <> Lego City! (LOUD) - ???
 5136034364 <> Hallway Ambience - FNAF 2
@@ -330,10 +330,18 @@
 7350109424 <> Ejected - Vs. Impostor
 7496444102 <> Cheating (With Start) - Vs. Dave And Bambi (UNCENSORED)
 7317406096 <> Cheating - Vs. Dave And Bambi (UNCENSORED)
+7713421656 <> Unfairness - Vs. Dave And Bambi (UNCENSORED)
 7984468433 <> Applecore - Vs. Dave And Bambi
 8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
 8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe Part <Except The Last Part>)
 7860856702 <> Monochrome - FNF Hypno Lullaby
+7249291557 <> Corn Theft - Vs. Dave And Bambi
+6698288749 <> Wocky - Vs. Kapi
+6714272316 <> Beathoven - Vs. Kapi
+6728929802 <> Flatzone - Vs. Kapi
+7282476691 <> Hairball - Vs. Kapi: Arcade Showdown
+6898822576 <> Hairball (Instrumental) - Vs. Kapi: Arcade Showdown
+6879239119 <> Nyaw - Vs. Kapi: Arcade Showdown
 --< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
 6474930628 <> Philly Nice - Siivagunner
 6484886741 <> South - Siivagunner
@@ -500,6 +508,8 @@
 --< SOUNDS >--
 6859407462 <> mus_explosion.ogg
 1655262564 <> Heal SFX
+5350464575 <> Select Sound???
+623904185 <> Slash Sound???
 --< UNOFFICIAL REMIXES/EDITS >--
 602261321 <> Bonetrousle (Day 1 Patch) - Siivagunner
 6906298814 <> Once Upon a Time (True Pacifist Version) - Siivagunner
@@ -693,11 +703,15 @@
 6607811759 <> Ultimate Koopa - Siivagunner (Super █████ 64 event)
 6608670589 <> Ultimate Koopa Clear - Siivagunner (Super █████ 64 event)
 
+> OMORI
+6714449388 <> Bad Morning
+6247107469 <> Good Morning
+
 > Paper Mario
 5041117963 <> Mario's House Theme
 3723070938 <> Game Over
 286203369 <> King of The Koopas
--- SOUNDS --
+--< SOUNDS >--
 5236355791 <> Peril SFX
 5236355411 <> Danger SFX
 2986157260 <> Lucky SFX
