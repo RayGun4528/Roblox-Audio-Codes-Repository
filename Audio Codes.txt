@@ -1,7 +1,7 @@
 # --------------------------------------------------------------------------------------------------------------------------
 # **DISCLAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
 # **Also: Some of these audios may not work due to being taken down, deleted or other. These audios also may get weirdly cut off. **
-# **That being said, feel free to use this huge list of audio IDs! Giving credit is optional.**
+# **That being said, feel free to use this huge list of audio IDs! Giving credit to RayGun4528 who made this list is optional.**
 # --------------------------------------------------------------------------------------------------------------------------
 # Adding audio entries:
 # Audio Entry Format:
@@ -29,9 +29,9 @@
 # Songs that are very similiar in sound, should be grouped together.
 # -------------------------------------------------------------
 # https://www.roblox.com/library/<audio_id_here>/
+# rbxassetid://<audio_id_here>
 > Random/Uncategorized Music
 3501297844 <> Skull.ogg
-5410086218 <> Crab Rave - Noisestorm
 952774272 <> "what" - Earthbound
 6119798028 <> sus XDDDDDD
 6490413778 <> SUS XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
@@ -44,33 +44,31 @@
 5152714834 <> Indihome Paket Phoenix
 3198684276 <> Circus Theme - you :)
 396518422 <> Undertale the Musical [short] - LHUGUENY (yep, THAT one) 
-1788749499 <> MC Mental
+1788749499 <> MC Mental at his best
 2916809696 <> Curb Your Enthusiasm
 5971920694 <> Polish Cow
 1096434714 <> that one dragonball music
-4605182432 <> Thanos beatbox
+4605182432 <> Thanos Beatbox - Verbalase
 6503915239 <> Chug Jug With You
-2665943889 <> You are an Idiot - ???
+2665943889 <> You are an Idiot
 6646847880 <> She sells sea shells [badly censored, cut short]
 5048447792 <> Sunshine Rainbow White Pony - Wowkie Zhang (大張偉)
 6205671419 <> Doin' Your Mom - Fatty Spins (apparently this doesn't work in-game)
 3807239428 <> Revenge - Captain Sparkels
 142633540 <> You've been Trolled!
 641270778 / 418669540 <> Title Screen - 7 GRAND DAD
-458212953 <> Gourmet Race [LOUD] - Kirby
 284512962 <> Gourmet Race - Kirby
+458212953 <> Gourmet Race [LOUD] - Kirby
 130768299 <> Elevator Music
-486598641 <> Lavender Town - Pokemon Blue And Red
 7268064402 <> In Yo Jaws (CENSORED)
-285768873 <> Bad Apple - Touhou
+285768873 <> Bad Apple (Touhou) - nomico
 2808581936 <> Dark Sheep - Chroma
-580426833 <> Safe and Sound - NCS
 2593058535 <> Freedom Dive - XI
 577543579 <> Blue Zenith - XI
 4816984896 <> E1M1 - Doom
 3878751931 <> Ruler Of Everything - tallyhall
 235068128 <> Wii Music Theme 
-1026744718 <> Disappearance Of Miku - Hatsune Miku
+6791357112 <> The Disappearance Of Hatsune Miku - Hatsune Miku
 3459294812 <> Mope Mope - LeaF
 2569365263 <> Aleph-0 - LeaF
 142376088 <> It's Raining Tacos
@@ -98,7 +96,7 @@
 5053414331 <> Xue hua piao piao type beat
 3926167929 <> Mario Beatbox Solo - Verbalase
 1941069386 <> RUSH E
-6492568114 / 6424389289 <> Camel by Camel - Sandy Marton
+6492568114 / 6424389289 <> Camel by Camel (Ankha meme) - Sandy Marton
 582476855 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
 6932928276 <> Astronaut in the Ocean - Masked Wolf
 7435600457 <> Astronaut in the Ocean [Low Quality]
@@ -114,29 +112,31 @@
 306970862 <> Deadlocked
 7956883559 <> Helikopter - Fazlija
 7034014140 <> Drive Forever (Russian Remix) (Sigma Male Grindset Meme)
-2711879927 <> Elevator Music (actual name unknown)
+2711879927 <> Elevator Music thingy
 6582765044 <> The Happy Troll - D1ofAquavibe
 7819541272 <> ??? (Creepyish Ambiance)
 1124255533 <> Wind Ambiance
 420048995 <> Bumba Crossing
 2660213576 <> Cave Ambiance
-6170065603 <> Driftveil City
+486598641 <> Lavender Town - Pokemon Blue And Red
+6170065603 <> Driftveil City - Pokemon Black and White
 195622274 <> Beethoven Virus - BanYa
 1846306568 <> Beethoven's 5th (Piano)
 3140574182 <> Brain Power - NOMA
 8234168747 <> Among Us In Real Life (yes, the SUS SUS one) - Rebecca Zamolo 
-4539170617 <> error [レッドゾーン]
+4539170617 <> error [レッドゾーン] - 4096
+2005357746 <> Moonlight Sonata - cYsmix 
 
 > Random/Uncategorized Sounds
 5210821790 <> hamood habibi
 641589464 / 4578740568 <> bruh
 3232410868 <> arabfunny
 4819881245 <> siren - siren head
-4704519595 <> Lego City! (LOUD) - ???
+4704519595 <> "A man has fallen into the river in Lego City" Ad [LOUD] - LEGO
 5136034364 <> Hallway Ambience - FNAF 2
 217584806 <> Elevator Bell Ring
 4809574295 / 7058158837 <> fard
-6683033226 <> Sweaty Speedrunner
+6683033226 <> Sweaty Speedrunner - H*ck No
 179497874 <> MLG Killcam
 6418106114 <> Trollge... it's coming. oh no
 5112474270 <> SUBARU SUBARU VROOM VROOM
@@ -166,7 +166,7 @@
 2812991876 <> Car hit sound effect, I think
 3769434519 <> Bamboo hit
 6435400690 <> Quack
-574999020 <> Zombie "damaged" noise
+574999020 <> Zombie "hurt" noise
 6116525919 <> Menu Select - Megaman
 5407165997 <> Menu Select - DuckTales
 2390688989 <> Button Menu
@@ -203,6 +203,7 @@
 7086388496 <> Flightreacts screaming
 1569053161 <> Flightreacts dolphin laugh
 2618158728 <> Russian Kid Rages in Minecraft
+8230868989 <> Can you believe it guys? *Metal Pipe*, just a week away.
 146750669 <> Sine Wave (440hz)
 97157576 <> Glass Break 1
 97156507 <> Glass Break 2
@@ -216,6 +217,10 @@
 99274458 <> Strong Wind 1
 99273674 <> Strong Wind 2
 99268197 <> Strong Wind 3
+386343492 <> Button Press - Portal 2
+6228337171 <> Start Button Sound - Super Smash Bros Crusade
+4943184703 <> Message Button Sound
+2707021263 <> Button Sound - Call of Duty: Zombies
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -264,10 +269,10 @@
 7006122964 <> Sunshine - Vs. Bob
 6821142816 <> Withered - Vs. Bob
 6816650189 <> Run - Vs. Bob
-7077249744 <> Ron - Bob's Onslaught (Vs. Bob Part 2)
-7077176048 <> Trouble - Bob's Onslaught (Vs. Bob Part 2)
-7077056093 <> Onslaught - Bob's Onslaught (Vs. Bob Part 2)
-7081033916 <> Little Man [CENSORED] - Bob's Onslaught (Vs. Bob Part 2)
+7077249744 <> Ron - Vs. Bob: Bob's Onslaught
+7077176048 <> Trouble - Vs. Bob: Bob's Onslaught
+7077056093 <> Onslaught - Vs. Bob: Bob's Onslaught
+7081033916 <> Little Man [CENSORED] - Vs. Bob: Bob's Onslaught
 6914042846 <> Chicken Dance (Tsuraran Remix) - Vs. Tricky
 6614211529 <> Improbable Outset - Vs. Tricky
 6541168042 <> Madness - Vs. Tricky
@@ -320,6 +325,7 @@
 7194481228 <> First Town - Vs. Camellia
 7199169373 <> Liquated - Vs. Camellia
 7168516332 <> Ghost - Vs. Camellia
+8005985377 <> Ghoul - Vs. Camellia
 6994725519 <> Jump In - Vs. Bob & Bosip
 6994762688 <> Swing - Vs. Bob & Bosip
 6994889981 <> Split - Vs. Bob & Bosip
@@ -327,15 +333,32 @@
 6994864306 <> Walk (Credits Screen music) - Vs. Bob & Bosip
 7234587703 <> Split EX - Vs. Bob & Bosip: The Expansion Update
 7806548119 <> Split EX (Instrumental) - Vs. Bob & Bosip: The Expansion Update
-7350109424 <> Ejected - Vs. Impostor
+6745115619 <> Sussus Moogus - Vs. Impostor
+6855410333 <> Sabotage - Vs. Impostor
+6854936951 <> Meltdown - Vs. Impostor
+7347728262 <> Sussus Toogus - Vs. Impostor V2
+7347723826 <> Lights Down - Vs. Impostor V2
+8296162008 <> Lights Down (Instrumental) - Vs. Impostor V2
+7347731045 <> Reactor - Vs. Impostor V2
+7350109424 <> Ejected - Vs. Impostor V2
+7454924216 <> Ejected (Instrumental) - Vs. Impostor V2
+7358317555 <> Sussy Bussy - Vs. Impostor V3
+7358320661 <> Rivals - Vs. Impostor V3
+8091270165 <> Rivals (Instrumental) - Vs. Impostor V3
+7358322166 <> Chewmate - Vs. Impostor V3
+7358327464 <> Defeat - Vs. Impostor V3
 7496444102 <> Cheating (With Start) - Vs. Dave And Bambi (UNCENSORED)
 7317406096 <> Cheating - Vs. Dave And Bambi (UNCENSORED)
 7713421656 <> Unfairness - Vs. Dave And Bambi (UNCENSORED)
 7984468433 <> Applecore - Vs. Dave And Bambi
-8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
-8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe Part <Except The Last Part>)
-7860856702 <> Monochrome - FNF Hypno Lullaby
 7249291557 <> Corn Theft - Vs. Dave And Bambi
+8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
+8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe except the last part)
+7860838965 <> Safety Lullaby - FNF Hypno Lullaby
+7860851770 <> Left Unchecked - FNF Hypno Lullaby
+7860856702 <> Monochrome - FNF Hypno Lullaby
+8043404560 <> Monochrome (Instrumental) - FNF Hypno Lullaby
+7863449906 <> Missingno - FNF Hypno Lullaby
 6698288749 <> Wocky - Vs. Kapi
 6714272316 <> Beathoven - Vs. Kapi
 6728929802 <> Flatzone - Vs. Kapi
@@ -358,7 +381,7 @@
 6481209509 <> Roses...?
 6294877910 <> Dad Battle...?
 6668406167 <> Bopeebo Rumble...?
-6603978674 <> da batle
+6603978674 <> dad battle but bad
 --< SOUNDS >--
 6878624853 <> GF Sound
 6862721997 <> BF's "beep"
@@ -393,11 +416,39 @@
 2457387217 <> Stained Brutal Calamity (Acceptance)
 
 > Roblox: Bee Swarm Simulator
-4588690218 <> Overflowin
-5331874645 <> Drone
-3035183162 <> Wax (very quiet)
-4976616702 <> Antmarch
-5558240798 <> Stick Bug
+# Taken from @Onett's Inventory
+2008512743 <> overflowin1
+2041848932 <> overflowin2
+2041874438 <> overflowin3
+2052242315 <> overflowin4
+2677450793 / 5331874645 <> drone
+1954880569 / 4976616702 <> antmarch1
+2562631515 / 5558240798 <> stickbug
+1479981863 <> wax
+1482721762 <> bpatrol
+1598349092 <> crawlers
+2062483297 <> starhall
+2281113770 <> mountaincall
+2529553350 <> gbtune1
+2529614730 <> vendor
+--< SOUNDS >--
+4855252025 <> quest_start
+4855252375 <> quest_end
+2279354701 <> sprout1
+2279370648 <> sprout2b
+2279371048 <> sprout3b
+2279371561 <> sprout4b
+2279371921 <> sprout5b
+1637269677 <> booster1
+1629678616 <> focus
+1676100990 <> melody2
+1874648740 <> bsync
+2302213509 <> rig1
+2280954980 <> giggle
+2596997779 <> item1
+2866948026 <> dice1
+3943782048 <> windchime1
+3943782903 <> windchime2
 
 > Undertale
 --< MAIN GAME >--
@@ -572,7 +623,7 @@
 473440909 <> Watery Graves
 154623283 <> Rigor Mormist
 859382956 <> Graze The Roof 
-151245487 <> Brainiac Maniac [might be a little loud]
+151245487 <> Brainiac Maniac [a bit loud]
 2879550002 <> Loonboon - Siivagunner
 
 > The Henry Stickmin Collection
@@ -676,6 +727,10 @@
 10209129 <> Administrator: Prepare to attack control points
 10209104 <> Administrator: Begin
 
+> OMORI
+6714449388 <> Bad Morning
+6247107469 <> Good Morning
+
 > FEZ
 4893867198 <> Adventure
 6607721145 <> Beyond
@@ -702,10 +757,6 @@
 --< UNOFFICIAL REMIXES/EDITS >--
 6607811759 <> Ultimate Koopa - Siivagunner (Super █████ 64 event)
 6608670589 <> Ultimate Koopa Clear - Siivagunner (Super █████ 64 event)
-
-> OMORI
-6714449388 <> Bad Morning
-6247107469 <> Good Morning
 
 > Paper Mario
 5041117963 <> Mario's House Theme
@@ -778,6 +829,11 @@
 5425461156 <> Mid Boss
 
 > Mario and Luigi: Bowser's Inside Story
+296590379 <> Toad Town
+166567996 <> Minigame
+585890770 <> SHOWTIME!
+457787405 <> Okey Dokey!!
+358313942 <> Fawful's Theme
 195900687 <> In The Final
 
 > Among Us (I'm not going to put some dumb stuff here)
@@ -815,6 +871,9 @@
 
 > Sonic.Exe
 8143944961 <> Hill
+7436288092 <> . . .
+--< SOUNDS >--
+7337298420 <> Laugh
 
 > Kevin Macleod
 413176884 <> Carefree
@@ -829,6 +888,11 @@
 963703151 <> Cipher
 4567074797 <> Investigations
 4895754016 <> Beach Party
+6978070222 <> New Friendly
+258852901 <> Local Forecast
+221748797 <> Local Forecast - Elevator
+--< UNOFFICIAL REMIXES >--
+6952037447 <> New Friendly (Megalovania Cover)
 
 > Camellia
 1747451164 <> Ghost
@@ -841,6 +905,7 @@
 > Kobaryo
 2878403701 <> Villain Virus (ft. Camellia)
 5639284536 <> Necromancer
+5156910594 <> Blackbird
 
 > ParagonX9
 148285099 <> Chaoz Fantasy
@@ -881,12 +946,13 @@
 5961501635 <> Thunderzone
 900470512 <> Jumper
 
-> NoCopyrightSounds/NCS
+> NoCopyrightSounds/NCS Releases
 707644140 <> Wicked - John Kenza
 6346896493 <> Fade - Alan Walker
 6346896493 <> On & On - Cartoon
 288756677 <> Life - Tobu
 2178379418 <> The Apocalypse - NIVIRO
+580426833 <> Safe and Sound - Different Heaven
 
 # https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
 > Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
