@@ -1,7 +1,7 @@
 # --------------------------------------------------------------------------------------------------------------------------
 # **DISCLAIMER: Some of these audios may be COPYRIGHTED. Make sure that the audio you're using is allowed for you to use. Please beware.**
 # **Also: Some of these audios may not work due to being taken down, deleted or other. These audios also may get weirdly cut off. **
-# **That being said, feel free to use this huge list of audio IDs! Giving credit is optional.**
+# **That being said, feel free to use this huge list of audio IDs! Giving credit to RayGun4528 who made this list is optional.**
 # --------------------------------------------------------------------------------------------------------------------------
 # Adding audio entries:
 # Audio Entry Format:
@@ -29,9 +29,9 @@
 # Songs that are very similiar in sound, should be grouped together.
 # -------------------------------------------------------------
 # https://www.roblox.com/library/<audio_id_here>/
+# rbxassetid://<audio_id_here>
 > Random/Uncategorized Music
 3501297844 <> Skull.ogg
-5410086218 <> Crab Rave - Noisestorm
 952774272 <> "what" - Earthbound
 6119798028 <> sus XDDDDDD
 6490413778 <> SUS XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
@@ -60,11 +60,9 @@
 284512962 <> Gourmet Race - Kirby
 458212953 <> Gourmet Race [LOUD] - Kirby
 130768299 <> Elevator Music
-486598641 <> Lavender Town - Pokemon Blue And Red
 7268064402 <> In Yo Jaws (CENSORED)
-285768873 <> Bad Apple - Touhou
+285768873 <> Bad Apple (Touhou) - nomico
 2808581936 <> Dark Sheep - Chroma
-580426833 <> Safe and Sound - NCS
 2593058535 <> Freedom Dive - XI
 577543579 <> Blue Zenith - XI
 4816984896 <> E1M1 - Doom
@@ -114,13 +112,14 @@
 306970862 <> Deadlocked
 7956883559 <> Helikopter - Fazlija
 7034014140 <> Drive Forever (Russian Remix) (Sigma Male Grindset Meme)
-2711879927 <> Elevator Music (actual name unknown)
+2711879927 <> Elevator Music thingy
 6582765044 <> The Happy Troll - D1ofAquavibe
 7819541272 <> ??? (Creepyish Ambiance)
 1124255533 <> Wind Ambiance
 420048995 <> Bumba Crossing
 2660213576 <> Cave Ambiance
-6170065603 <> Driftveil City
+486598641 <> Lavender Town - Pokemon Blue And Red
+6170065603 <> Driftveil City - Pokemon Black and White
 195622274 <> Beethoven Virus - BanYa
 1846306568 <> Beethoven's 5th (Piano)
 3140574182 <> Brain Power - NOMA
@@ -218,6 +217,10 @@
 99274458 <> Strong Wind 1
 99273674 <> Strong Wind 2
 99268197 <> Strong Wind 3
+386343492 <> Button Press - Portal 2
+6228337171 <> Start Button Sound - Super Smash Bros Crusade
+4943184703 <> Message Button Sound
+2707021263 <> Button Sound - Call of Duty: Zombies
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -322,6 +325,7 @@
 7194481228 <> First Town - Vs. Camellia
 7199169373 <> Liquated - Vs. Camellia
 7168516332 <> Ghost - Vs. Camellia
+8005985377 <> Ghoul - Vs. Camellia
 6994725519 <> Jump In - Vs. Bob & Bosip
 6994762688 <> Swing - Vs. Bob & Bosip
 6994889981 <> Split - Vs. Bob & Bosip
@@ -412,11 +416,39 @@
 2457387217 <> Stained Brutal Calamity (Acceptance)
 
 > Roblox: Bee Swarm Simulator
-4588690218 <> Overflowin
-5331874645 <> Drone
-3035183162 <> Wax (very quiet)
-4976616702 <> Antmarch
-5558240798 <> Stick Bug
+# Taken from @Onett's Inventory
+2008512743 <> overflowin1
+2041848932 <> overflowin2
+2041874438 <> overflowin3
+2052242315 <> overflowin4
+2677450793 / 5331874645 <> drone
+1954880569 / 4976616702 <> antmarch1
+2562631515 / 5558240798 <> stickbug
+1479981863 <> wax
+1482721762 <> bpatrol
+1598349092 <> crawlers
+2062483297 <> starhall
+2281113770 <> mountaincall
+2529553350 <> gbtune1
+2529614730 <> vendor
+--< SOUNDS >--
+4855252025 <> quest_start
+4855252375 <> quest_end
+2279354701 <> sprout1
+2279370648 <> sprout2b
+2279371048 <> sprout3b
+2279371561 <> sprout4b
+2279371921 <> sprout5b
+1637269677 <> booster1
+1629678616 <> focus
+1676100990 <> melody2
+1874648740 <> bsync
+2302213509 <> rig1
+2280954980 <> giggle
+2596997779 <> item1
+2866948026 <> dice1
+3943782048 <> windchime1
+3943782903 <> windchime2
 
 > Undertale
 --< MAIN GAME >--
@@ -591,7 +623,7 @@
 473440909 <> Watery Graves
 154623283 <> Rigor Mormist
 859382956 <> Graze The Roof 
-151245487 <> Brainiac Maniac [might be a little loud]
+151245487 <> Brainiac Maniac [a bit loud]
 2879550002 <> Loonboon - Siivagunner
 
 > The Henry Stickmin Collection
@@ -797,6 +829,11 @@
 5425461156 <> Mid Boss
 
 > Mario and Luigi: Bowser's Inside Story
+296590379 <> Toad Town
+166567996 <> Minigame
+585890770 <> SHOWTIME!
+457787405 <> Okey Dokey!!
+358313942 <> Fawful's Theme
 195900687 <> In The Final
 
 > Among Us (I'm not going to put some dumb stuff here)
@@ -834,6 +871,9 @@
 
 > Sonic.Exe
 8143944961 <> Hill
+7436288092 <> . . .
+--< SOUNDS >--
+7337298420 <> Laugh
 
 > Kevin Macleod
 413176884 <> Carefree
@@ -848,6 +888,11 @@
 963703151 <> Cipher
 4567074797 <> Investigations
 4895754016 <> Beach Party
+6978070222 <> New Friendly
+258852901 <> Local Forecast
+221748797 <> Local Forecast - Elevator
+--< UNOFFICIAL REMIXES >--
+6952037447 <> New Friendly (Megalovania Cover)
 
 > Camellia
 1747451164 <> Ghost
@@ -860,6 +905,7 @@
 > Kobaryo
 2878403701 <> Villain Virus (ft. Camellia)
 5639284536 <> Necromancer
+5156910594 <> Blackbird
 
 > ParagonX9
 148285099 <> Chaoz Fantasy
@@ -900,12 +946,13 @@
 5961501635 <> Thunderzone
 900470512 <> Jumper
 
-> NoCopyrightSounds/NCS
+> NoCopyrightSounds/NCS Releases
 707644140 <> Wicked - John Kenza
 6346896493 <> Fade - Alan Walker
 6346896493 <> On & On - Cartoon
 288756677 <> Life - Tobu
 2178379418 <> The Apocalypse - NIVIRO
+580426833 <> Safe and Sound - Different Heaven
 
 # https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
 > Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
