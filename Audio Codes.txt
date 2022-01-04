@@ -53,7 +53,6 @@
 2665943889 <> You are an Idiot
 6646847880 <> She sells sea shells [badly censored, cut short]
 5048447792 <> Sunshine Rainbow White Pony - Wowkie Zhang (大張偉)
-6205671419 <> Doin' Your Mom - Fatty Spins (apparently this doesn't work in-game)
 3807239428 <> Revenge - Captain Sparkels
 142633540 <> You've been Trolled!
 641270778 / 418669540 <> Title Screen - 7 GRAND DAD
@@ -584,24 +583,67 @@
 4739499225 <> Sans Phase 3 - Undertale: Last Breath
 
 > Deltarune
---< CHAPTER 1 OSTs >-- 
-2545302036 <> Field of Hopes and Dreams
-2541045910 <> Checker Dance
-2581161873 <> Card Castle
+--< CHAPTER 1 OSTs >--
+2532451536 / 2581156275 <> ANOTHER HIM
+3008205852 <> Beginning
+2545328493 <> School
+2545331600 <> Susie
+# (The Door missing.)
+2581167754 <> Cliffs
+2581163639 <> The Chase
+2581167188 <> The Legend
+7541287097 <> Lancer
 4666570939 <> Rude Buster
+2581162854 <> Empty Town
+2545326928 <> Weird Birds
+2545302036 <> Field of Hopes and Dreams
+3479336104 <> Fanfare
+2545318409 <> Lantern
+2545332645 <> I'm Very Bad
+2541045910 <> Checker Dance
+2620754644 <> Quiet Autumn
+2537558642 <> Scarlet Forest
+2589013912 <> Thrash Machine
+6817715789 <> Vs. Lancer
+5411830181 <> Basement
+2766443411 <> Imminent Death
+2539916569 <> Vs. Susie
+2581161873 <> Card Castle
+2545316274 <> Rouxls Kaard
+2545329753 <> April 2012
+2545311006 <> Hip Shop
+2630263163 <> Gallery
 2583045807 <> Chaos King
+2581157905 <> Darkness Falls
+2545298782 <> The Circus
 2533880583 <> THE WORLD REVOLVING
 2581165208 <> Friendship
+2924118681 <> THE HOLY
+# (Your Power missing.)
+2586521639 <> A Town Called Hometown 
+2541699203 <> You Can Always Come Home
 2541004671 <> Don't Forget (ft. Laura Shigihara)
+2581161146 <> Before The Story
+2530378021 <> Dogcheck
+8165106098 <> School (Scrapped)
+7857630510 <> Door Open
+7857631930 <> Door Close
+2583816610 <> Lancer Laugh
+2583830330 <> Lancer Spoke
+4763617439 <> snd_rurus_appear (Rouxls Kaard Appear SFX)
 --< CH1 UNOFFICIAL REMIXES/EDITS >--
+2984556320 <> Thrash Machine
+7489824071 <> THE WORLD REVOLVING (Camellia Remix)
 5366579601 <> Rude Buster (Camellia Remix)
 5295970239 <> Rude Buster + Thanos Beatbox
 7029906996 <> Rude Buster + Replay Iyaz
 7345062826 <> Rude Buster + Obama Beatbox
 7568252921 <> Rouxls Kaard - TimmyTurnersGrandDad
+4913912055 <> Your Power - Siivagunner
 2578754972 <> Don't Forget - Siivagunner
 --< CHAPTER 2 OSTs >--
 7502282069 <> My Castle Town
+7730887639 <> Queen
 7502282069 <> A CYBER WORLD?
 7552068692 <> Cyber Battle (Solo)
 7507378837 <> When I Get Happy I Dance Like This
@@ -650,7 +692,7 @@
 4397723567 <> End of the Universe
 
 > Spongebob
-2788641490 <> Jellyfish Jam
+1093967439 <> Stadium Rave A (Jellyfish Jam)
 326180973 <> Electric Zoo
 1100552247 <> Grass Skirt Chase
 390099251 <> Twelveth Street Rag
@@ -931,6 +973,7 @@
 561786199 <> Duality
 4586618716 <> The Disturbance
 3310217049 <> Forsaken Neon
+2681499977 <> At the Speed of Light
 
 > Waterflame
 3248394541 <> Nightlife
