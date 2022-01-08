@@ -38,7 +38,7 @@
 7279256311 <> Among Us Trap Remix vocoded to Gangsta Paradise
 6520777243 <> Can You Feel My Heart (Average [...] Fan VS Average [...] Enjoyer meme) - Bring Me The Horizon
 4822274688 <> arab nokia ringtone
-4860809989 <> Ali A straight into the intro - Ali A
+4860809989 <> Ali A straight to the intro - Ali A
 2059291590 <> I FOUND HEROBRINE IN FORTNITE?!?!? :OOOOO - Ali A
 5096176801 <> Snow Halation + Replay Iyaz (shawtys like a melody)
 5152714834 <> Indihome Paket Phoenix
@@ -642,19 +642,50 @@
 4913912055 <> Your Power - Siivagunner
 2578754972 <> Don't Forget - Siivagunner
 --< CHAPTER 2 OSTs >--
+8215548583 <> Faint Glow
+7578991696 <> Girl Next Door
 7502282069 <> My Castle Town
+# (Ohhhhohohoho! missing seriously I searched deltarune laugh, deltarune ohhhhohohoho and couldn't find anything) 
 7730887639 <> Queen
 7502282069 <> A CYBER WORLD?
-7552068692 <> Cyber Battle (Solo)
+7942759444 <> A Simple Diversion
+# (Almost To The Guys! missing.) 
+# (Cool Beat missing.)
+7532377522 <> When I Get Mad I Dance Like This
+7527032737 <> Cyber Battle 
+7552068692 <> Cyber Battle (Solo) (the one used in the game)
 7507378837 <> When I Get Happy I Dance Like This
+7501059078 <> Sound Studio
+7506600725 <> Berdly
+7508897604 <> Smart Race
+7786656086 <> Faint Courage
 4652219915 <> WELCOME TO THE CITY
+7730599814 <> WELCOME TO THE CITY (Snowgrave route)
+7970288078 <> Mini Studio
+7511015104 <> HEY EVERY !
+7548073825 <> Spamton
+7513890670 <> NOW'S YOUR CHANCE TO BE A
+8151642050 <> Elegant Entrance
+7610215152 <> Bluebird of Misfortune
+7513900347 <> Pandora Palace
+7527061693 <> KEYGEN
+7509157380 <> Acid Tunnel of Love
+7523979244 <> It's Pronounced "Rules"
+4652222971 <> Lost Girl
+7570542400 <> Ferris Wheel
 7533945425 <> Attack of the Killer Queen
 7508775331 <> Knock You Down !!
+7518807873 <> The Dark Truth
 7506992048 <> BIG SHOT
 7510255482 <> Until Next Time
 7526993894 <> snd_snowgrave.ogg (SnowGrave use SFX)
 7527008733 <> snd_icespell.ogg (IceShock use SFX)
 7520569768 <> mus_flashback_excerpt.ogg (Noelle hospital cutscene on Snowgrave route post-Fountain)
+7527129183 <> Spamton Laugh
+7566858914 <> Queen Short Laugh
+--< CH2 UNOFFICIAL REMIXES/EDITS >--
+8357942734 <> Cool Beat - Siivagunner
+7566006741 <> HEY EVERT ! - Siivagunner
 
 > Plants vs Zombies
 216932927 <> Main Theme
@@ -948,6 +979,8 @@
 2878403701 <> Villain Virus (ft. Camellia)
 5639284536 <> Necromancer
 5156910594 <> Blackbird
+7114813025 <> Windows 10000
+7627541537 <> Windows 10000 (no start)
 
 > ParagonX9
 148285099 <> Chaoz Fantasy
