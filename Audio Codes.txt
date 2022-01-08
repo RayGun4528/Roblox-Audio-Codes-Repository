@@ -220,6 +220,7 @@
 6228337171 <> Start Button Sound - Super Smash Bros Crusade
 4943184703 <> Message Button Sound
 2707021263 <> Button Sound - Call of Duty: Zombies
+6896547945 <> What da dog doin?
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -291,6 +292,8 @@
 6449724369 <> Hello World! - Vs. Hex
 6542981306 <> Glitcher - Vs. Hex
 6543178949 <> Encore - Vs. Hex
+8424500824 <> Cooling - Vs. Hex: Weekend Update
+8426126252 <> Detected - Vs. Hex: Weekend Update
 6659059293 <> Manifest - Vs. Sky
 6658488775 <> Manifest (Instrumental) - Vs. Sky
 6561940777 <> Foolhardy - Vs. Zardy
@@ -324,7 +327,9 @@
 7194481228 <> First Town - Vs. Camellia
 7199169373 <> Liquated - Vs. Camellia
 7168516332 <> Ghost - Vs. Camellia
-8005985377 <> Ghoul - Vs. Camellia
+8254409047 <> Lioness Pride - Vs. Camellia: Week 2 Update
+7869082697 <> Ghost Halloween VIP - Vs. Camellia: Week 2 Update
+8005985377 <> Ghoul - Vs. Camellia: Week 2 Update
 6994725519 <> Jump In - Vs. Bob & Bosip
 6994762688 <> Swing - Vs. Bob & Bosip
 6994889981 <> Split - Vs. Bob & Bosip
@@ -629,23 +634,23 @@
 7857630510 <> Door Open
 7857631930 <> Door Close
 2583816610 <> Lancer Laugh
-2583830330 <> Lancer Spoke
-4763617439 <> snd_rurus_appear (Rouxls Kaard Appear SFX)
+2583830330 <> Lancer Talking
+4763617439 <> snd_rurus_appear.ogg (Rouxls Kaard Appear SFX)
 --< CH1 UNOFFICIAL REMIXES/EDITS >--
-2984556320 <> Thrash Machine
 7489824071 <> THE WORLD REVOLVING (Camellia Remix)
 5366579601 <> Rude Buster (Camellia Remix)
 5295970239 <> Rude Buster + Thanos Beatbox
 7029906996 <> Rude Buster + Replay Iyaz
 7345062826 <> Rude Buster + Obama Beatbox
 7568252921 <> Rouxls Kaard - TimmyTurnersGrandDad
+2984556320 <> Thrash Machine - Siivagunner
 4913912055 <> Your Power - Siivagunner
 2578754972 <> Don't Forget - Siivagunner
 --< CHAPTER 2 OSTs >--
 8215548583 <> Faint Glow
 7578991696 <> Girl Next Door
 7502282069 <> My Castle Town
-# (Ohhhhohohoho! missing seriously I searched deltarune laugh, deltarune ohhhhohohoho and couldn't find anything) 
+# (Ohhhhohohoho! missing.)
 7730887639 <> Queen
 7502282069 <> A CYBER WORLD?
 7942759444 <> A Simple Diversion
@@ -674,18 +679,32 @@
 4652222971 <> Lost Girl
 7570542400 <> Ferris Wheel
 7533945425 <> Attack of the Killer Queen
+7509509354 <> Giga Size
 7508775331 <> Knock You Down !!
 7518807873 <> The Dark Truth
+7724469885 <> Digital Roots
+7666989003 <> Deal Gone Wrong
+7632778946 <> Deal Gone Wrong (Snowgrave Route)
 7506992048 <> BIG SHOT
+7576497327 <> A Real Boy!
+7548050254 <> Dialtone
+# (See "Undertale" Category then "MAIN GAME" Subcategory for "sans.")
+7510895241 <> Chill Jailbreak Alarm to Study And Relax To
+# (See "Deltarune" Category then "CHAPTER 1 OSTs" Subcategory for "You Can Always Come Home")
 7510255482 <> Until Next Time
 7526993894 <> snd_snowgrave.ogg (SnowGrave use SFX)
 7527008733 <> snd_icespell.ogg (IceShock use SFX)
-7520569768 <> mus_flashback_excerpt.ogg (Noelle hospital cutscene on Snowgrave route post-Fountain)
-7527129183 <> Spamton Laugh
+7520569768 <> mus_flashback_excerpt.ogg (Noelle post-Fountain hospital cutscene on Snowgrave Route)
+7726656458 <> d.ogg (2nd Berdly encounter on Snowgrave Route)
+7885921905 <> berdly_battle_heartbeat_true.ogg (Berdly 2nd Battle on Snowgrave Route)
+7527129183 <> spamton_laugh_noise.ogg (Spamton Laugh)
 7566858914 <> Queen Short Laugh
+7575100080 <> Giga Queen Laugh
+7676468643 <> noelle.ogg (Unused)
 --< CH2 UNOFFICIAL REMIXES/EDITS >--
 8357942734 <> Cool Beat - Siivagunner
-7566006741 <> HEY EVERT ! - Siivagunner
+7566006741 <> HEY EVERY ! - Siivagunner
+7581169683 <> A Real Boy! - Siivagunner
 
 > Plants vs Zombies
 216932927 <> Main Theme
@@ -825,9 +844,17 @@
 2289623191 <> Key + THX Startup
 
 > Super Mario 64
+578240505 <> File Select (slightly loud)
+237275387 <> Star Select
+6027340236 <> Bob-Omb Battlefield
+1335313864 <> Slider
 681504763 <> Powerful Mario
+6313610455 <> Dire Dire Docks
 606127712 <> Snow Mountain
+186302497 <> Ultimate Koopa
 --< UNOFFICIAL REMIXES/EDITS >--
+2497652624 <> File Select - Siivagunner
+386974055 <> Silder - Siivagunner
 6607811759 <> Ultimate Koopa - Siivagunner (Super █████ 64 event)
 6608670589 <> Ultimate Koopa Clear - Siivagunner (Super █████ 64 event)
 
@@ -896,10 +923,15 @@
 2096635487 <> Memory
 
 > Paper Mario: The Origami King
+5522463622 <> Chestnut Valley
 5251942821 <> Red Streamer Battle
-5355699113 <> The Final Fold 1
+5379602756 <> Event Battle
+5379485922 <> Vellumental Battle
 5415211526 <> Origami Castle
 5425461156 <> Mid Boss
+5924815053 <> King Olly Battle
+5355699113 <> The Final Fold 1
+5523757289 <> Staff Credits
 
 > Mario and Luigi: Bowser's Inside Story
 296590379 <> Toad Town
@@ -968,6 +1000,7 @@
 6952037447 <> New Friendly (Megalovania Cover)
 
 > Camellia
+6937623547 <> ΩΩPARTS
 1747451164 <> Ghost
 7414324108 <> Ghost (2020 Halloween+++++++++ VIP)
 3890747311 <> Quaoar
