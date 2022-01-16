@@ -14,7 +14,7 @@
 # If an audio is an remix, omit {Source} and include this: (<Remixer's name> Remix)
 # Example: 5366579601 <> Rude Buster (Camellia Remix)
 #
-# --< SECTIONS >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
+# --< SUBCATEGORIES >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
 # Example:
 # ...
 # 144121667 <> Dungeon
@@ -34,7 +34,7 @@
 3501297844 <> Skull.ogg
 952774272 <> "what" - Earthbound
 6119798028 <> sus XDDDDDD
-6490413778 <> SUS XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+6490413778 <> SUS XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 7279256311 <> Among Us Trap Remix vocoded to Gangsta Paradise
 6520777243 <> Can You Feel My Heart (Average [...] Fan VS Average [...] Enjoyer meme) - Bring Me The Horizon
 4822274688 <> arab nokia ringtone
@@ -124,7 +124,15 @@
 3140574182 <> Brain Power - NOMA
 8234168747 <> Among Us In Real Life (yes, the SUS SUS one) - Rebecca Zamolo 
 4539170617 <> error [レッドゾーン] - 4096
-2005357746 <> Moonlight Sonata - cYsmix 
+2005357746 <> Moonlight Sonata - cYsmix
+8106213926 <> FNAF Beatbox
+8370177440 <> Mr. Incredible Are Becoming Un-Canny
+3720710903 <> Suicidemouse.avi (Gorix)
+711132846 <> Remix 10 - Rhythm Heaven Fever
+2706589452 <> Revenge (Parody of Usher's DJ Got Us Fallin' In Love) - CaptainSparklez
+252625963 <> Do the Mario - Super Mario Bros Super Show
+160578028 <> Spongebob Trap Remix
+160442087 <> Spooky Scary Skeletons
 
 > Random/Uncategorized Sounds
 5210821790 <> hamood habibi
@@ -221,6 +229,12 @@
 4943184703 <> Message Button Sound
 2707021263 <> Button Sound - Call of Duty: Zombies
 6896547945 <> What da dog doin?
+6069962045 <> Mutahar Laugh
+1524367820 <> Forest Ambience - Counter Strike: Condition Zero
+4903834432 <> Npesta's Kenos Verification reaction
+5526090035 <> I like ya cut G
+4614271734 <> Baby Crying Autotune
+177089928 <> Power Out - FNaF
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -264,7 +278,7 @@
 6699901649 <> Guns
 6699841710 <> Stress
 6066717049 <> Game Over
---< MOD OSTs >--
+--< MOD SOUNDTRACKS >--
 6719954489 <> Bopeebo Rumble
 7006122964 <> Sunshine - Vs. Bob
 6821142816 <> Withered - Vs. Bob
@@ -285,7 +299,7 @@
 6467584186 <> Lo-Fight - Vs. Whitty
 6399738874 <> Overhead - Vs. Whitty
 6401254298 / 6441859834 <> Ballistic - Vs. Whitty
-6818141335 <> Ballistic Remastered - Vs. Whitty
+6818141335 <> Ballistic (Remastered) - Vs. Whitty
 6455151081 <> Ballistic (RetroSpecter Remix) - Vs. Whitty
 6539938891 <> Dunk - Vs. Hex
 6396671523 <> R.A.M - Vs. Hex
@@ -293,7 +307,7 @@
 6542981306 <> Glitcher - Vs. Hex
 6543178949 <> Encore - Vs. Hex
 8424500824 <> Cooling - Vs. Hex: Weekend Update
-8426126252 <> Detected - Vs. Hex: Weekend Update
+8426126252 <> Detected (w/ miss error sound, I want a replacement of this) - Vs. Hex: Weekend Update
 6659059293 <> Manifest - Vs. Sky
 6658488775 <> Manifest (Instrumental) - Vs. Sky
 6561940777 <> Foolhardy - Vs. Zardy
@@ -354,7 +368,7 @@
 7496444102 <> Cheating (With Start) - Vs. Dave And Bambi (UNCENSORED)
 7317406096 <> Cheating - Vs. Dave And Bambi (UNCENSORED)
 7713421656 <> Unfairness - Vs. Dave And Bambi (UNCENSORED)
-7984468433 <> Applecore - Vs. Dave And Bambi
+7984468433 / 8414964481 <> Applecore - Vs. Dave And Bambi (NOT MARKED)
 7249291557 <> Corn Theft - Vs. Dave And Bambi
 8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
 8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe except the last part)
@@ -369,6 +383,11 @@
 7282476691 <> Hairball - Vs. Kapi: Arcade Showdown
 6898822576 <> Hairball (Instrumental) - Vs. Kapi: Arcade Showdown
 6879239119 <> Nyaw - Vs. Kapi: Arcade Showdown
+7289362961 <> Loaf - Vs. Aflac
+6989716818 <> Trance - Vs. Aflac
+6973286168 <> Blazeborn - Vs. Aflac
+6989638033 <> The End - Vs. Aflac
+# (planned: Vs. Tabi, B-Side)
 --< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
 6474930628 <> Philly Nice - Siivagunner
 6484886741 <> South - Siivagunner
@@ -665,7 +684,7 @@
 7508897604 <> Smart Race
 7786656086 <> Faint Courage
 4652219915 <> WELCOME TO THE CITY
-7730599814 <> WELCOME TO THE CITY (Snowgrave route)
+7730599814 <> WELCOME TO THE CITY (Snowgrave Route)
 7970288078 <> Mini Studio
 7511015104 <> HEY EVERY !
 7548073825 <> Spamton
@@ -963,6 +982,9 @@
 1151710193 <> Knockout!
 
 > Inscryption
+8097911975 <> Deathcard Cabin [Full, Pitch 50%]
+8505400926 <> The Angler
+8094325277 <> The Trapper / The Trader
 7885054690 <> Leshy's Theme
 8164413916 <> A Final Duel
 8164440205 <> Deathcard Cabin (Reprise)
@@ -972,7 +994,6 @@
 7862926300 <> The Scrybe of the Dead
 7871158966 <> The Scrybe of Magicks
 7862953111 <> Uberbot Activated
-8097911975 <> Deathcard Cabin [Full, Pitch 50%]
 
 > Sonic.Exe
 8143944961 <> Hill
