@@ -6,15 +6,25 @@
 # Adding audio entries:
 # Audio Entry Format:
 # {Audio Code} <> {Audio Name} - {Source}
-# {Source} may be omitted if the source is unknown or if the audio entry is placed under the source itself
+# {Source} may be omitted if the source is unknown or if the audio entry is placed under a category where the audio entry is from
 # 
 # Suffix () are used to indicate extra description for that audio (ex. (Instrumental), (Retrospecter Remix))
 # Suffix [] are used to indicate external modifications that are used in that audio (ex. [Looped], [sped up])
 #
-# If an audio is an remix, omit {Source} and include this: (<Remixer's name> Remix)
+# If an audio is an remix, omit {Source} and include this instead: (<Remixer's name> Remix)
 # Example: 5366579601 <> Rude Buster (Camellia Remix)
+# 
+# -------------------------------------------------------------
+# > Categories are used to split up Audio Entries from different games, artists, animations, etc.
+# Example:
+# > Undertale
+#  ... (place audios that came from Undertale here)
+# 
+# > Camellia
+#  ... (place audios that were created by Camellia here)
 #
-# --< SUBCATEGORIES >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the section has enough tracks to be split up, usually 5 tracks)
+# -------------------------------------------------------------
+# --< SUBCATEGORIES >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the subcategory has enough tracks to be split up, usually 5 tracks)
 # Example:
 # ...
 # 144121667 <> Dungeon
@@ -27,6 +37,7 @@
 #
 # An exception to this is for sound entries, splitting chapters, or remixes of OSTs, in that case, always split it up
 # Songs that are very similiar in sound, should be grouped together.
+#
 # -------------------------------------------------------------
 # https://www.roblox.com/library/<audio_id_here>/
 # rbxassetid://<audio_id_here>
