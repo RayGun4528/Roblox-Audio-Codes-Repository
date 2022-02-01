@@ -14,7 +14,7 @@
 # If an audio is an remix, omit {Source} and include this instead: (<Remixer's name> Remix)
 # Example: 5366579601 <> Rude Buster (Camellia Remix)
 # 
-# -------------------------------------------------------------
+# ----------------------------
 # > Categories are used to split up Audio Entries from different games, artists, animations, etc.
 # Example:
 # > Undertale
@@ -23,7 +23,7 @@
 # > Camellia
 #  ... (place audios that were created by Camellia here)
 #
-# -------------------------------------------------------------
+# ----------------------------
 # --< SUBCATEGORIES >-- are used to spilt up Soundtracks from different chapters, sounds, remixes and mod tracks (provided the subcategory has enough tracks to be split up, usually 5 tracks)
 # Example:
 # ...
@@ -59,7 +59,9 @@
 2916809696 <> Curb Your Enthusiasm
 5971920694 <> Polish Cow
 1096434714 <> that one dragonball music
+3926167929 <> Mario Beatbox Solo - Verbalase
 4605182432 <> Thanos Beatbox - Verbalase
+2953054310 <> Tetris Beatbox - Verbalase
 6503915239 <> Chug Jug With You
 2665943889 <> You are an Idiot
 6646847880 <> She sells sea shells [badly censored, cut short]
@@ -71,6 +73,7 @@
 458212953 <> Gourmet Race [LOUD] - Kirby
 130768299 <> Elevator Music
 7268064402 <> In Yo Jaws (CENSORED)
+6954045116 <> In Yo Jaws (UNCENSORED)
 285768873 <> Bad Apple (Touhou) - nomico
 2808581936 <> Dark Sheep - Chroma
 2593058535 <> Freedom Dive - XI
@@ -104,7 +107,6 @@
 6803459614 <> Home Depot Beat Car Drip
 5189468929 <> Xue hua piao piao
 5053414331 <> Xue hua piao piao type beat
-3926167929 <> Mario Beatbox Solo - Verbalase
 1941069386 <> RUSH E
 6492568114 / 6424389289 <> Camel by Camel (Ankha meme) - Sandy Marton
 582476855 <> Galaxy Collapse - 黒皇帝 (Kurokutei)
@@ -144,6 +146,11 @@
 252625963 <> Do the Mario - Super Mario Bros Super Show
 160578028 <> Spongebob Trap Remix
 160442087 <> Spooky Scary Skeletons
+1848041872 <> Nocturne Op. 9 No. 2 - Chopin (uploaded by Roblox)
+2950745151 <> Entry Of The Gladiators MIDI
+1836280076 <> Symphony #9 Finale, "Ode To Joy" - Beethoven (uploaded by Roblox)
+1836282767 <> Flight of the Bumblebee - Rimsky Korsakov (uploaded by Roblox)
+5666190478 <> Default Dance
 
 > Random/Uncategorized Sounds
 5210821790 <> hamood habibi
@@ -246,6 +253,7 @@
 5526090035 <> I like ya cut G
 4614271734 <> Baby Crying Autotune
 177089928 <> Power Out - FNaF
+6821863707 <> "you sussy baka"
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -398,7 +406,11 @@
 6989716818 <> Trance - Vs. Aflac
 6973286168 <> Blazeborn - Vs. Aflac
 6989638033 <> The End - Vs. Aflac
-# (planned: Vs. Tabi, B-Side)
+6842237281 <> My Battle - Vs. Tabi
+7828455997 <> My Battle (Instrumental) - Vs. Tabi
+6842237014 <> Last Chance - Vs. Tabi
+6832047428 <> Genocide - Vs. Tabi
+# (planned: B-Side)
 --< UNOFFICIAL TRACKS/EDITS (INCLUDES MODS) >--
 6474930628 <> Philly Nice - Siivagunner
 6484886741 <> South - Siivagunner
@@ -853,6 +865,15 @@
 6714449388 <> Bad Morning
 6247107469 <> Good Morning
 
+> Tetris 99
+3620550931 <> Menu
+2920723259 <> Main Theme
+3158723538 <> 10 Players Left
+--< SOUNDS >--
+3158723538 <> You Win!
+3109759872 <> Game Over
+3109759394 <> Low HP
+
 > FEZ
 4893867198 <> Adventure
 6607721145 <> Beyond
@@ -882,6 +903,7 @@
 6313610455 <> Dire Dire Docks
 606127712 <> Snow Mountain
 186302497 <> Ultimate Koopa
+539939153 <> Staff Roll
 --< UNOFFICIAL REMIXES/EDITS >--
 2497652624 <> File Select - Siivagunner
 386974055 <> Silder - Siivagunner
@@ -1002,8 +1024,10 @@
 7885655814 <> The Moon
 7992460365 <> The Temple of Technology
 7862867653 <> The Temple of the Dead
+8505476696 <> The Scrybe of Technology
 7862926300 <> The Scrybe of the Dead
 7871158966 <> The Scrybe of Magicks
+8562224005 <> Botopia
 7862953111 <> Uberbot Activated
 
 > Sonic.Exe
@@ -1038,6 +1062,7 @@
 3890747311 <> Quaoar
 1861780345 <> crystallized
 6189436409 <> Hello (BPM) 2021
+8488253434 <> Hello (BPM) 2022
 1228696343 <> ANOMALY
 
 > Kobaryo
@@ -1105,6 +1130,10 @@
 288756677 <> Life - Tobu
 2178379418 <> The Apocalypse - NIVIRO
 580426833 <> Safe and Sound - Different Heaven
+
+> TheFatRat
+6159198196 <> Unity
+3384232273 <> Time Lapse
 
 # https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
 > Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
@@ -1207,3 +1236,6 @@
 6836753798 <> Upbeat Piano 2
 6836753065 <> Upbeat Piano 3
 6836751768 <> Upbeat Piano 4
+
+> Backrooms
+6137774183 <> Backroom Sounds
