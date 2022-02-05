@@ -39,6 +39,12 @@
 # Songs that are very similiar in sound, should be grouped together.
 #
 # -------------------------------------------------------------
+# Tips:
+# If you're searching for an artist on Creator Marketplace page and nothing shows up, try to put a space and a dash like this:
+# "Camellia -"
+#
+# Most of the times it will properly show up the results.
+# -------------------------------------------------------------
 # https://www.roblox.com/library/<audio_id_here>/
 # rbxassetid://<audio_id_here>
 > Random/Uncategorized Music
@@ -89,7 +95,6 @@
 5609012092 <> Goodbye to a World [low pitch] - Porter Robinson 
 159973318 <> Normal Music - ???
 1165001152 <> Bird Dance Madness Combat - Madness Combat Series
-6573177583 <> A1: It's just a burning memory - Everywhere at The End of Time by The Caretaker
 5717819473 <> bee. - GroovyDominoes52
 6767464010 <> I'm Sorry my Bro (Orchesta Version) - GroovyDominoes52
 4039220397 / 1642381938 <> We're Finally Landing - HOME 
@@ -151,8 +156,14 @@
 1836280076 <> Symphony #9 Finale, "Ode To Joy" - Beethoven (uploaded by Roblox)
 1836282767 <> Flight of the Bumblebee - Rimsky Korsakov (uploaded by Roblox)
 5666190478 <> Default Dance
+1271580301 <> Tunak Tunak Tun (Eurobeat Remix)
+2001852467 <> Dimension - Creo
 
 > Random/Uncategorized Sounds
+8480907179 <> Among Us Spin
+8657424213 <> Among Us Glass Bridge Death - ZAnimation
+5952423626 <> Hello guys Welcome to my Minecraft lets play (FULL)
+5525467333 <> Ayo the Pizza Here (Censored)
 5210821790 <> hamood habibi
 641589464 / 4578740568 <> bruh
 3232410868 <> arabfunny
@@ -165,8 +176,6 @@
 179497874 <> MLG Killcam
 6418106114 <> Trollge... it's coming. oh no
 5112474270 <> SUBARU SUBARU VROOM VROOM
-602163388 <> FNAF 1 jumpscare sound
-6900515969 <> 6 AM - FNAF 1
 5058160717 <> Vine Boom
 628897044 <> scream - Michael P
 901030512 <> scream2 - Michael P
@@ -230,6 +239,7 @@
 2618158728 <> Russian Kid Rages in Minecraft
 8230868989 <> Can you believe it guys? *Metal Pipe*, just a week away.
 146750669 <> Sine Wave (440hz)
+7098706214 <> Sine Wave (500hz)
 97157576 <> Glass Break 1
 97156507 <> Glass Break 2
 97156551 <> Glass Break 3
@@ -252,8 +262,15 @@
 4903834432 <> Npesta's Kenos Verification reaction
 5526090035 <> I like ya cut G
 4614271734 <> Baby Crying Autotune
-177089928 <> Power Out - FNaF
+602163388 <> Jumpscare - FNAF
+6900515969 <> 6 AM - FNAF
+177089928 <> Power Out - FNAF
+176248551 <> Freddy's Laugh - FNAF
+5585610006 <> Mascot Tune - FNAF
+186766438 <> Jumpscare - FNAF 2
 6821863707 <> "you sussy baka"
+6519564325 <> Cash sound
+534538511 <> Cash Register
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -344,7 +361,6 @@
 6768783121 <> Release - Vs. Garcello
 6786421944 <> Release (RetroSpecter Remix) - Vs. Garcello
 6782704078 <> Fading - Vs. Garcello
-6832047428 <> Genocide - Vs. Tabi
 6636155402 <> Parish (Instrumental) - Mid Fight Masses
 6718589518 <> Parish - Mid Fight Masses
 6571515086 <> Worship - Mid Fight Masses
@@ -389,6 +405,7 @@
 7713421656 <> Unfairness - Vs. Dave And Bambi (UNCENSORED)
 7984468433 / 8414964481 <> Applecore - Vs. Dave And Bambi (NOT MARKED)
 7249291557 <> Corn Theft - Vs. Dave And Bambi
+8579892988 <> Disruption - Vs. Dave And Bambi Golden Apple
 8107363458 <> Triple Trouble [sped up] - Sonic Exe 2.0 
 8101442716 <> Triple Trouble - Sonic Exe 2.0 (No Sonic.Exe except the last part)
 7860838965 <> Safety Lullaby - FNF Hypno Lullaby
@@ -477,6 +494,7 @@
 2281113770 <> mountaincall
 2529553350 <> gbtune1
 2529614730 <> vendor
+8275544372 <> nectar
 --< SOUNDS >--
 4855252025 <> quest_start
 4855252375 <> quest_end
@@ -751,13 +769,18 @@
 > Plants vs Zombies
 216932927 <> Main Theme
 158260192 <> The Zombies ate Your Brains!
-6228604802 <> Day
+6228604802 <> Grasswalk (In-game)
 154515510 <> Loonboon
-786066849 <> Ultimate Theme
+786066849 <> Ultimate Battle (In-game)
 473440909 <> Watery Graves
 154623283 <> Rigor Mormist
 859382956 <> Graze The Roof 
 151245487 <> Brainiac Maniac [a bit loud]
+869801626 <> Brainiac Maniac
+158260415 <> Victory
+658675191 <> Moongrains
+330162856 <> Pool
+1116663893 <> Cerebrawl (OST)
 2879550002 <> Loonboon - Siivagunner
 
 > The Henry Stickmin Collection
@@ -1030,13 +1053,20 @@
 8562224005 <> Botopia
 7862953111 <> Uberbot Activated
 
+> Everywhere at The End of Time (by The Caretaker)
+6573177583 <> A1: It's just a burning memory
+6575925918 <> A2: We don't have many days
+6567330911 <> A4: Childishly fresh eyes
+--< UNOFFICIAL REMIXES >--
+6532133702 <> A1 (Undertale Edition)
+
 > Sonic.Exe
 8143944961 <> Hill
 7436288092 <> . . .
 --< SOUNDS >--
 7337298420 <> Laugh
 
-> Kevin Macleod
+> Kevin Macleod (CC BY-SA 3.0)
 413176884 <> Carefree
 279498364 <> There It Is
 335120003 <> Aces High
@@ -1064,6 +1094,9 @@
 6189436409 <> Hello (BPM) 2021
 8488253434 <> Hello (BPM) 2022
 1228696343 <> ANOMALY
+1768540477 <> Xeroa
+5788126232 <> Flamewall
+1747430851 <> Speedrun
 
 > Kobaryo
 2878403701 <> Villain Virus (ft. Camellia)
@@ -1112,7 +1145,11 @@
 5961501635 <> Thunderzone
 900470512 <> Jumper
 
-> LEMMiNO
+> NightHawk22
+2001852467 <> Isolation
+(note for self: fill this later)
+
+> LEMMiNO (CC BY-SA 3.0)
 6161992971 <> Cipher
 6163755562 <> Blackout
 6249326646 <> Encounters
@@ -1122,6 +1159,12 @@
 7071205795 <> Melancholy
 7071206625 <> Siberian
 7071207400 <> Biosignature
+
+> Kubbi
+2259263632 <> Overworld
+863979846 <> Ember
+619385133 <> The Cairn (Magfest = WIN Version)
+(note for self: fill this later)
 
 > NoCopyrightSounds/NCS Releases
 707644140 <> Wicked - John Kenza
@@ -1239,3 +1282,6 @@
 
 > Backrooms
 6137774183 <> Backroom Sounds
+
+> C418
+7547439294 <> Mice On Venus
