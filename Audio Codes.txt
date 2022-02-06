@@ -40,7 +40,7 @@
 #
 # -------------------------------------------------------------
 # Tips:
-# If you're searching for an artist on Creator Marketplace page and nothing shows up, try to put a space and a dash like this:
+# If you're searching for an artist's name on Creator Marketplace page and nothing shows up, try to put a space and a dash like this:
 # "Camellia -"
 #
 # Most of the times it will properly show up the results.
@@ -153,13 +153,18 @@
 160442087 <> Spooky Scary Skeletons
 1848041872 <> Nocturne Op. 9 No. 2 - Chopin (uploaded by Roblox)
 2950745151 <> Entry Of The Gladiators MIDI
+1840246654 <> Symphony #9, "Ode To Joy" - Beethoven
 1836280076 <> Symphony #9 Finale, "Ode To Joy" - Beethoven (uploaded by Roblox)
 1836282767 <> Flight of the Bumblebee - Rimsky Korsakov (uploaded by Roblox)
 5666190478 <> Default Dance
 1271580301 <> Tunak Tunak Tun (Eurobeat Remix)
 2001852467 <> Dimension - Creo
+4903170900 <> Louvre Museum Invasion - Rhythm Thief
 
 > Random/Uncategorized Sounds
+8078422119 <> Spongebob, Patrick, Sandy, Mr.Krabs, Squidward, Plankton, Patrick, Gary (Normal)
+8036240668 <> Spongebob, Patrick, Sandy, Mr.Krabs, Squidward, Plankton, Patrick, Gary (Fast)
+6346074926 <> Nope
 8480907179 <> Among Us Spin
 8657424213 <> Among Us Glass Bridge Death - ZAnimation
 5952423626 <> Hello guys Welcome to my Minecraft lets play (FULL)
@@ -271,6 +276,7 @@
 6821863707 <> "you sussy baka"
 6519564325 <> Cash sound
 534538511 <> Cash Register
+6137774183 <> Backroom Ambient Noise
 
 > Uploaded-by-Roblox Tracks
 # note: most of these music sounds pretty generic
@@ -801,11 +807,6 @@
 --< SOUNDS >--
 5684756012 <> Aircraft Alarm
 
-> Little Runmo
-4471113614 <> Level One
-4454862615 <> Meatball Man
-4397723567 <> End of the Universe
-
 > Spongebob
 1093967439 <> Stadium Rave A (Jellyfish Jam)
 326180973 <> Electric Zoo
@@ -895,7 +896,7 @@
 --< SOUNDS >--
 3158723538 <> You Win!
 3109759872 <> Game Over
-3109759394 <> Low HP
+3109759394 <> Warning
 
 > FEZ
 4893867198 <> Adventure
@@ -1053,131 +1054,6 @@
 8562224005 <> Botopia
 7862953111 <> Uberbot Activated
 
-> Everywhere at The End of Time (by The Caretaker)
-6573177583 <> A1: It's just a burning memory
-6575925918 <> A2: We don't have many days
-6567330911 <> A4: Childishly fresh eyes
---< UNOFFICIAL REMIXES >--
-6532133702 <> A1 (Undertale Edition)
-
-> Sonic.Exe
-8143944961 <> Hill
-7436288092 <> . . .
---< SOUNDS >--
-7337298420 <> Laugh
-
-> Kevin Macleod (CC BY-SA 3.0)
-413176884 <> Carefree
-279498364 <> There It Is
-335120003 <> Aces High
-257383979 <> Movement Proposition
-413177092 <> Life of Riley
-2919546130 <> Breaktime
-357684108 <> Overcast
-7828491029 <> Itty Bitty 8 Bit
-7711231212 <> Fluffing a Duck
-963703151 <> Cipher
-4567074797 <> Investigations
-4895754016 <> Beach Party
-6978070222 <> New Friendly
-258852901 <> Local Forecast
-221748797 <> Local Forecast - Elevator
---< UNOFFICIAL REMIXES >--
-6952037447 <> New Friendly (Megalovania Cover)
-
-> Camellia
-6937623547 <> ΩΩPARTS
-1747451164 <> Ghost
-7414324108 <> Ghost (2020 Halloween+++++++++ VIP)
-3890747311 <> Quaoar
-1861780345 <> crystallized
-6189436409 <> Hello (BPM) 2021
-8488253434 <> Hello (BPM) 2022
-1228696343 <> ANOMALY
-1768540477 <> Xeroa
-5788126232 <> Flamewall
-1747430851 <> Speedrun
-
-> Kobaryo
-2878403701 <> Villain Virus (ft. Camellia)
-5639284536 <> Necromancer
-5156910594 <> Blackbird
-7114813025 <> Windows 10000
-7627541537 <> Windows 10000 (no start)
-
-> ParagonX9
-148285099 <> Chaoz Fantasy
-5615020251 <> No.5
-925412603 <> Defection
-215758524 <> Infiltration
-216295506 <> Chaoz Impact
-282908631 <> Chaoz Defection
-557894001 <> Chaoz Airflow
-656478412 <> Chaoz Devotion
-2457284832 <> Double Damage
-2457286956 <> Equalized
-6487381789 <> Red 13 [ends abruptly]
-280792714 <> Red 13 [Incomplete]
-6316572849 <> Elation
-
-> Dimrain47
-5767770660 <> Jetstream
-431718336 <> The Falling Mysts
-1055853169 <> Operation Evolution
-576075040 <> Surface
-212693212 <> Infernoplex
-561786199 <> Duality
-4586618716 <> The Disturbance
-3310217049 <> Forsaken Neon
-2681499977 <> At the Speed of Light
-
-> Waterflame
-3248394541 <> Nightlife
-1112358968 <> Cats!
-2954323029 <> Escalate
-4703563060 <> Momentary
-1494625744 <> Swirl
-4592034104 <> Dim
-1044406069 <> Mainspring
-953450767 <> Relentless
-1197735636 <> Meltdown
-1241888953 <> Chaotic
-5961501635 <> Thunderzone
-900470512 <> Jumper
-
-> NightHawk22
-2001852467 <> Isolation
-(note for self: fill this later)
-
-> LEMMiNO (CC BY-SA 3.0)
-6161992971 <> Cipher
-6163755562 <> Blackout
-6249326646 <> Encounters
-6252220116 <> Cosmic Solitude
-6646497121 <> Aloft
-7071204794 <> Triangular
-7071205795 <> Melancholy
-7071206625 <> Siberian
-7071207400 <> Biosignature
-
-> Kubbi
-2259263632 <> Overworld
-863979846 <> Ember
-619385133 <> The Cairn (Magfest = WIN Version)
-(note for self: fill this later)
-
-> NoCopyrightSounds/NCS Releases
-707644140 <> Wicked - John Kenza
-6346896493 <> Fade - Alan Walker
-6346896493 <> On & On - Cartoon
-288756677 <> Life - Tobu
-2178379418 <> The Apocalypse - NIVIRO
-580426833 <> Safe and Sound - Different Heaven
-
-> TheFatRat
-6159198196 <> Unity
-3384232273 <> Time Lapse
-
 # https://devforum.roblox.com/t/restaurant-tycoon-2-music-list/442723
 > Used in Restaurant Tycoon 2 (wish I could gave them proper names but I'm lazy lol)
 1839492262 <> Slow Piano 1
@@ -1280,8 +1156,164 @@
 6836753065 <> Upbeat Piano 3
 6836751768 <> Upbeat Piano 4
 
-> Backrooms
-6137774183 <> Backroom Sounds
+> Sonic.Exe
+8143944961 <> Hill
+7436288092 <> . . .
+--< SOUNDS >--
+7337298420 <> Laugh
+
+> Little Runmo
+4471113614 <> Level One
+6314213766 <> In the Hall of the Dring King
+6314222526 <> Glorgs in 5/4
+4454862615 <> Waltz of the Meatball Man
+4424780546 <> The Gastral Giveaway
+4397723567 <> End of the Universe
+
+> Everywhere at The End of Time (by The Caretaker)
+6573177583 <> A1: It's just a burning memory
+6575925918 <> A2: We don't have many days
+6567330911 <> A4: Childishly fresh eyes
+--< UNOFFICIAL REMIXES >--
+6532133702 <> A1 (Undertale Edition)
+
+> Kevin Macleod 
+# (CC BY-SA 3.0)
+413176884 <> Carefree
+279498364 <> There It Is
+335120003 <> Aces High
+257383979 <> Movement Proposition
+413177092 <> Life of Riley
+2919546130 <> Breaktime
+357684108 <> Overcast
+7828491029 <> Itty Bitty 8 Bit
+7711231212 <> Fluffing a Duck
+963703151 <> Cipher
+4567074797 <> Investigations
+4895754016 <> Beach Party
+6978070222 <> New Friendly
+258852901 <> Local Forecast
+221748797 <> Local Forecast - Elevator
+--< UNOFFICIAL REMIXES >--
+6952037447 <> New Friendly (Megalovania Cover)
+
+> Camellia 
+# (https://cametek.jp/songuse_en.html) 
+# TLDR: Ask for permission if you're making a game using Camellia's music. Anything else, open and read the link above
+6937623547 <> ΩΩPARTS
+1747451164 <> Ghost
+7414324108 <> Ghost (2020 Halloween+++++++++ VIP)
+3890747311 <> Quaoar
+1861780345 <> crystallized
+6189436409 <> Hello (BPM) 2021
+8488253434 <> Hello (BPM) 2022
+1228696343 <> ANOMALY
+1768540477 <> Xeroa
+5788126232 <> Flamewall
+1747430851 <> Speedrun
+
+> Kobaryo
+2878403701 <> Villain Virus (ft. Camellia)
+5639284536 <> Necromancer
+5156910594 <> Blackbird
+7114813025 <> Windows 10000
+7627541537 <> Windows 10000 (no start)
+
+> ParagonX9
+148285099 <> Chaoz Fantasy
+5615020251 <> No.5
+925412603 <> Defection
+215758524 <> Infiltration
+216295506 <> Chaoz Impact
+282908631 <> Chaoz Defection
+557894001 <> Chaoz Airflow
+656478412 <> Chaoz Devotion
+2457284832 <> Double Damage
+2457286956 <> Equalized
+6487381789 <> Red 13 [ends abruptly]
+280792714 <> Red 13 [Incomplete]
+6316572849 <> Elation
+
+> Dimrain47
+5767770660 <> Jetstream
+431718336 <> The Falling Mysts
+1055853169 <> Operation Evolution
+576075040 <> Surface
+212693212 <> Infernoplex
+561786199 <> Duality
+4586618716 <> The Disturbance
+3310217049 <> Forsaken Neon
+2681499977 <> At the Speed of Light
+
+> Waterflame
+3248394541 <> Nightlife
+1112358968 <> Cats!
+2954323029 <> Escalate
+4703563060 <> Momentary
+1494625744 <> Swirl
+4592034104 <> Dim
+1044406069 <> Mainspring
+953450767 <> Relentless
+1197735636 <> Meltdown
+1241888953 <> Chaotic
+5961501635 <> Thunderzone
+900470512 <> Jumper
+
+> NightHawk22
+2001852467 <> Isolation
+8680028497 <> Vindication
+4555048904 <> Isotope
+4555099229 <> Chemical Imbalance
+4555088900 <> Starscape IV
+240943476 <> Perfect Storm
+7232028077 <> Sun & Moon
+3239622642 <> Corrosion
+
+> LEMMiNO 
+# (CC BY-SA 4.0 / https://www.lemmi.no/music)
+6161992971 <> Cipher
+6163755562 <> Blackout
+6249326646 <> Encounters
+6252220116 <> Cosmic Solitude
+6646497121 <> Aloft
+7071204794 <> Triangular
+7071205795 <> Melancholy
+7071206625 <> Siberian
+7071207400 <> Biosignature
+
+> Kubbi
+# (CC BY-SA / kubbi.bandcamp.com)
+2259263632 <> Overworld
+863979846 <> Ember
+5918140902 <> The Cairn
+619385133 <> The Cairn (Magfest = WIN Version)
+1689003526 <> Pathfinder
+6144214392 <> Gravity
+2223013704 <> Cascade
+1027297699 <> dysneylands
+5632465324 <> Retrospect
+5309122962 <> Compass
+4578554167 <> Firelight
+5962271261 <> The Spectator
+6061374457 <> Spiritdancer
+
+> NoCopyrightSounds/NCS Releases 
+# (ncs.io/UsagePolicy (a bit unclear of what's the actual license here, if in doubt give credit))
+707644140 <> Wicked - John Kenza
+6346896493 <> Fade - Alan Walker
+6346896493 <> On & On - Cartoon
+288756677 <> Life - Tobu
+2178379418 <> The Apocalypse - NIVIRO
+580426833 <> Safe and Sound - Different Heaven
+
+> TheFatRat
+# Copyright-free on Youtube (only requires credit), dunno about anything else
+6159198196 <> Unity
+3384232273 <> Time Lapse
 
 > C418
-7547439294 <> Mice On Venus
+6826791127 <> Mellohi
+3564841883 <> Axoloti
+624326675 <> Mice on Venus
+192794680 <> Far
+6671392235 <> Key
